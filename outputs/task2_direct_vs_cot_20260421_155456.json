@@ -1,0 +1,16 @@
+[
+    {
+        "Strategy": "Direct Answer",
+        "n_valid": 100,
+        "parse_rate": 1.0,
+        "accuracy": 0.485,
+        "macro_f1": 0.4631437515249258
+    },
+    {
+        "Strategy": "Chain-of-Thought",
+        "n_valid": 100,
+        "parse_rate": 1.0,
+        "accuracy": 0.519,
+        "macro_f1": 0.493353769354849
+    }
+]

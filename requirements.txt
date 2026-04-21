@@ -1,0 +1,9 @@
+google-generativeai
+pandas
+numpy
+scikit-learn
+datasets
+tqdm
+python-dotenv
+pyyaml
+openai

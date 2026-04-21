@@ -1,0 +1,17 @@
+[
+    {
+        "Domain": "Yelp (in-domain)",
+        "Binary Accuracy": 0.88,
+        "Parse Rate": 1.0
+    },
+    {
+        "Domain": "Amazon (out-domain)",
+        "Binary Accuracy": 0.9797979797979798,
+        "Parse Rate": 0.99
+    },
+    {
+        "Domain": "IMDB (out-domain)",
+        "Binary Accuracy": 0.89,
+        "Parse Rate": 1.0
+    }
+]

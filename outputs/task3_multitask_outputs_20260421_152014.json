@@ -1,0 +1,902 @@
+[
+    {
+        "true_label": 1,
+        "review_snippet": "Have been going here regularly for about a year. New owners took over recently and are trying to turn it into a biker bar. \\n\\nProblem is the service ",
+        "pred_stars": 2,
+        "key_insight": "Since the new owners took over, service has slowed and become unfriendly, which the reviewer says is below average despite the food staying consistent.",
+        "business_response": "Thank you for sharing your experience and for being a regular customer for the past year. We’re sorry the service has not met expectations since the ownership change, and we’ll address the speed and friendliness concerns with our team. We’d appreciate the chance to welcome you back and show you the improvements—please feel free to reach out so we can make it right.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"Since the new owners took over, service has slowed and become unfriendly, which the reviewer says is below average despite the food staying consistent.\",\n  \"business_response\": \"Thank you for sharing your experience and for being a regular customer for the past year. We’re sorry the service has not met expectations since the ownership change, and we’ll address the speed and friendliness concerns with our team. We’d appreciate the chance to welcome you back and show you the improvements—please feel free to reach out so we can make it right.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "I have tried this place twice.  It is very popular, always crowded, and has a nice ambiance.  That being said, plain and simple- the food is bad.  The",
+        "pred_stars": 2,
+        "key_insight": "The reviewer enjoyed the ambiance but found the food mediocre—specifically calling the chicken marsala the worst they’ve had—and felt the pricing ($16 for marsala, $12–15 for pizza) wasn’t good value compared to other local options.",
+        "business_response": "Thank you for sharing your experience. We’re sorry the chicken marsala didn’t meet expectations and that the pricing felt out of line with the quality you received. We’d welcome the opportunity to make it right—please reach out so we can learn more about your visit and ensure future meals are better.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"The reviewer enjoyed the ambiance but found the food mediocre—specifically calling the chicken marsala the worst they’ve had—and felt the pricing ($16 for marsala, $12–15 for pizza) wasn’t good value compared to other local options.\",\n  \"business_response\": \"Thank you for sharing your experience. We’re sorry the chicken marsala didn’t meet expectations and that the pricing felt out of line with the quality you received. We’d welcome the opportunity to make it right—please reach out so we can learn more about your visit and ensure future meals are better.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "If you like overpriced food that really isn't that good, a wait staff that is snobby and a cliental that is a bunch of want-a-bees that somehow paying",
+        "pred_stars": 1,
+        "key_insight": "The reviewer criticizes the food as overpriced and not very good, and also complains about snobby wait staff and an unpleasant customer atmosphere.",
+        "business_response": "We’re sorry to hear your experience didn’t meet expectations. We take feedback about food quality, pricing, and service seriously, and we’d welcome the opportunity to learn more so we can address your concerns with our team. Thank you for sharing your perspective.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"The reviewer criticizes the food as overpriced and not very good, and also complains about snobby wait staff and an unpleasant customer atmosphere.\",\n  \"business_response\": \"We’re sorry to hear your experience didn’t meet expectations. We take feedback about food quality, pricing, and service seriously, and we’d welcome the opportunity to learn more so we can address your concerns with our team. Thank you for sharing your perspective.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "I think I must have been there the same day as Ron H!!  As Ron mentioned, this is Spring Training time in Scottsdale.  There actually aren't that many",
+        "pred_stars": 2,
+        "key_insight": "Guests were seated and ignored, with significant service delays and poor attention to table management. Food quality issues included missing advertised bacon and extremely salty bacon, plus slow resolution when a remake was requested.",
+        "business_response": "Thank you for sharing these details. We’re sorry for the delays, the lack of attentive service, and the issues with your order—especially the missing bacon and the excessive saltiness. We’d like to make this right; please contact us so we can review what happened and ensure our team is properly supported during busy Spring Training periods.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"Guests were seated and ignored, with significant service delays and poor attention to table management. Food quality issues included missing advertised bacon and extremely salty bacon, plus slow resolution when a remake was requested.\",\n  \"business_response\": \"Thank you for sharing these details. We’re sorry for the delays, the lack of attentive service, and the issues with your order—especially the missing bacon and the excessive saltiness. We’d like to make this right; please contact us so we can review what happened and ensure our team is properly supported during busy Spring Training periods.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "CHEATERS\\n\\nThat's the best way I can describe my experience yesterday at this location. I was upgrading to an iPhone 5 and trading in my iPhone 4. Th",
+        "pred_stars": 1,
+        "key_insight": "The reviewer says the store offered a trade-in value but required purchasing multiple accessories before the remaining balance could be applied, which they claim was out of Verizon policy and felt like upselling. They also mention being shown accessories immediately and being treated as if they didn’t know product differences.",
+        "business_response": "Thank you for sharing your experience. We’re sorry for the confusion regarding your trade-in and accessory requirements, and we take concerns about policy and customer treatment seriously. Please contact us so we can review what happened and work toward a resolution.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"The reviewer says the store offered a trade-in value but required purchasing multiple accessories before the remaining balance could be applied, which they claim was out of Verizon policy and felt like upselling. They also mention being shown accessories immediately and being treated as if they didn’t know product differences.\",\n  \"business_response\": \"Thank you for sharing your experience. We’re sorry for the confusion regarding your trade-in and accessory requirements, and we take concerns about policy and customer treatment seriously. Please contact us so we can review what happened and work toward a resolution.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "Ok I first want to say yes. Their food is delicious and I have eaten here several times. The sad thing is this. Today my family and I went here for lu",
+        "pred_stars": 2,
+        "key_insight": "The food is praised as delicious, but the review is strongly negative due to the restaurant refusing to honor a military discount because it wasn’t Monday, which offended the veteran customer and led to them walking out.",
+        "business_response": "Thank you for sharing your experience, and we’re glad you’ve enjoyed our food in the past. We’re sorry we didn’t handle the military discount request appropriately during your visit—your family’s service is appreciated, and we understand how disappointing this was. We’d like to make this right; please contact us so we can review what happened and discuss a resolution.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"The food is praised as delicious, but the review is strongly negative due to the restaurant refusing to honor a military discount because it wasn’t Monday, which offended the veteran customer and led to them walking out.\",\n  \"business_response\": \"Thank you for sharing your experience, and we’re glad you’ve enjoyed our food in the past. We’re sorry we didn’t handle the military discount request appropriately during your visit—your family’s service is appreciated, and we understand how disappointing this was. We’d like to make this right; please contact us so we can review what happened and discuss a resolution.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "When I went to the website to become a \\\"Wino\\\" I was expecting to sample some of the better street wines such Night Train, Thunderbird, MD 20/20 and ",
+        "pred_stars": 1,
+        "key_insight": "The reviewer felt the experience didn’t match expectations for sampling inexpensive street wines, and they were disappointed by the vineyard tour and $20+ bottle pricing, calling it a waste of time and money.",
+        "business_response": "We’re sorry the experience didn’t meet your expectations. Our tours focus on curated vineyard tastings and premium selections, and we’d like the opportunity to review what was communicated during booking so we can better align future guests’ expectations. If you’re willing, please contact us so we can learn more and address your concerns.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"The reviewer felt the experience didn’t match expectations for sampling inexpensive street wines, and they were disappointed by the vineyard tour and $20+ bottle pricing, calling it a waste of time and money.\",\n  \"business_response\": \"We’re sorry the experience didn’t meet your expectations. Our tours focus on curated vineyard tastings and premium selections, and we’d like the opportunity to review what was communicated during booking so we can better align future guests’ expectations. If you’re willing, please contact us so we can learn more and address your concerns.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "Don't get me wrong, the gym itself is lovely, the facilities are great, the staff are polite and helpful on the whole. \\n\\nBUT, they are incredibly po",
+        "pred_stars": 1,
+        "key_insight": "The reviewer praises the gym facilities and staff but reports severe issues with customer service and billing ethics, claiming they were sent to a debt collection agency for a membership they believed ended after a 3-month trial.",
+        "business_response": "We’re sorry for the distress this situation caused. We take billing and customer communication seriously and would like to review the membership terms, account history, and any correspondence with the collections agency to ensure everything was handled correctly. Please contact us with the reviewer’s details so we can investigate and work toward a resolution.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"The reviewer praises the gym facilities and staff but reports severe issues with customer service and billing ethics, claiming they were sent to a debt collection agency for a membership they believed ended after a 3-month trial.\",\n  \"business_response\": \"We’re sorry for the distress this situation caused. We take billing and customer communication seriously and would like to review the membership terms, account history, and any correspondence with the collections agency to ensure everything was handled correctly. Please contact us with the reviewer’s details so we can investigate and work toward a resolution.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "This place is the worst customer service check out ever! It is  12:00pm Sunday and you only have two people ringing? Ok I'll give you maybe people cal",
+        "pred_stars": 1,
+        "key_insight": "Severe dissatisfaction with slow checkout and perceived lack of urgency, with the manager reportedly laughing while a long line of customers waited and no one was being rung up.",
+        "business_response": "We’re very sorry for the experience you had during your visit and for the extended wait at checkout. That is not the level of service we aim to provide, and we will address the staffing and customer-handling concerns with our team. We appreciate you sharing this feedback and would like the opportunity to make it right—please contact us so we can review what happened in detail.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"Severe dissatisfaction with slow checkout and perceived lack of urgency, with the manager reportedly laughing while a long line of customers waited and no one was being rung up.\",\n  \"business_response\": \"We’re very sorry for the experience you had during your visit and for the extended wait at checkout. That is not the level of service we aim to provide, and we will address the staffing and customer-handling concerns with our team. We appreciate you sharing this feedback and would like the opportunity to make it right—please contact us so we can review what happened in detail.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "We stopped by on a whim. Mistake. 25 minutes between appetizer and main course. No explanation. No apology. Food was good, but not worth that kind of ",
+        "pred_stars": 2,
+        "key_insight": "The reviewer experienced a long 25-minute wait between the appetizer and main course with no explanation or apology, making the meal feel not worth the delay despite good food.",
+        "business_response": "Thank you for sharing your experience. We’re sorry for the 25-minute gap between courses and for not communicating or apologizing during the wait—this isn’t the level of service we aim to provide. We’re glad you enjoyed the food, and we’d appreciate the chance to make it right on your next visit.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"The reviewer experienced a long 25-minute wait between the appetizer and main course with no explanation or apology, making the meal feel not worth the delay despite good food.\",\n  \"business_response\": \"Thank you for sharing your experience. We’re sorry for the 25-minute gap between courses and for not communicating or apologizing during the wait—this isn’t the level of service we aim to provide. We’re glad you enjoyed the food, and we’d appreciate the chance to make it right on your next visit.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "Now listen, I don't normally write reviews about places and basic as a Dunkin Donuts, but I'll make an exception in this case.  If you are ever having",
+        "pred_stars": 1,
+        "key_insight": "The customer experienced extreme service delays and confusion at the register due to language barriers, resulting in an incorrect order and multiple attempts to fix it. The coffee was served ice-cold and the bagel arrived plain (not toasted and without cream cheese).",
+        "business_response": "We’re very sorry for the frustration and delays you experienced during your visit. This is not the level of service we aim to provide, and we’d like to review what happened with the register, order accuracy, and coffee preparation. Please contact us with the date/time of your visit so we can investigate and make this right.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"The customer experienced extreme service delays and confusion at the register due to language barriers, resulting in an incorrect order and multiple attempts to fix it. The coffee was served ice-cold and the bagel arrived plain (not toasted and without cream cheese).\",\n  \"business_response\": \"We’re very sorry for the frustration and delays you experienced during your visit. This is not the level of service we aim to provide, and we’d like to review what happened with the register, order accuracy, and coffee preparation. Please contact us with the date/time of your visit so we can investigate and make this right.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "Fuck. This. Place.\\n\\nI bought two Amazon Local gift certificates to use here. The first visit, we weren't brought any silverware or condiments. After",
+        "pred_stars": 1,
+        "key_insight": "Severe service failures (no silverware/condiments, drinks not refilled, ignored for 35 minutes) combined with poor food quality (bitter crab stew and blue crabs that were difficult to eat).",
+        "business_response": "We’re very sorry for the experience you described, including the lack of attention from our staff and the issues with your food. This is not the level of service or quality we aim to provide, and we’d like the opportunity to make this right—please contact us with the date of your visits and any details from your gift certificates so we can investigate and improve.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"Severe service failures (no silverware/condiments, drinks not refilled, ignored for 35 minutes) combined with poor food quality (bitter crab stew and blue crabs that were difficult to eat).\",\n  \"business_response\": \"We’re very sorry for the experience you described, including the lack of attention from our staff and the issues with your food. This is not the level of service or quality we aim to provide, and we’d like the opportunity to make this right—please contact us with the date of your visits and any details from your gift certificates so we can investigate and improve.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "AWFUL experience today...long story short, I am looking for a new dentist. I love our old one, but he's a little far from our house...so, I started by",
+        "pred_stars": 1,
+        "key_insight": "The reviewer says their service dog was denied access by the office manager, despite federal protections for service animals, and they were told it was not a “good fit” after being instructed to remove the dog.",
+        "business_response": "We’re very sorry for the distress this visit caused. Service animals are important, and we take accessibility concerns seriously—our team will review what was communicated to ensure compliance and respectful treatment. If the reviewer is willing, please contact our office so we can discuss the situation and work toward a resolution.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"The reviewer says their service dog was denied access by the office manager, despite federal protections for service animals, and they were told it was not a “good fit” after being instructed to remove the dog.\",\n  \"business_response\": \"We’re very sorry for the distress this visit caused. Service animals are important, and we take accessibility concerns seriously—our team will review what was communicated to ensure compliance and respectful treatment. If the reviewer is willing, please contact our office so we can discuss the situation and work toward a resolution.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "I wish I could leave a review of the food, but I didn't get a chance to have any.  I entered the restaurant a couple of weeks ago, craving a gyro, and",
+        "pred_stars": 1,
+        "key_insight": "The reviewer was not greeted or helped at the hostess stand despite staff seeing them, leading to a long wait and them leaving without ordering.",
+        "business_response": "We’re very sorry for the experience you had when you visited—no one should leave a guest waiting without being acknowledged. We’ll address this with our team to ensure the hostess stand is properly staffed and guests are greeted promptly. We appreciate your feedback and hope you’ll give us another chance to provide the service you expected.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"The reviewer was not greeted or helped at the hostess stand despite staff seeing them, leading to a long wait and them leaving without ordering.\",\n  \"business_response\": \"We’re very sorry for the experience you had when you visited—no one should leave a guest waiting without being acknowledged. We’ll address this with our team to ensure the hostess stand is properly staffed and guests are greeted promptly. We appreciate your feedback and hope you’ll give us another chance to provide the service you expected.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "Looks like I'm going along with the crowd on this one. Ate at the Frank Lloyd Wright location yesterday, and that will be the last time they see my sm",
+        "pred_stars": 1,
+        "key_insight": "The reviewer reports very poor service and an unwelcoming comment about having a child, along with long wait times and disappointing, soggy, bland food portions—especially the $15 shrimp scampi pizza.",
+        "business_response": "We’re very sorry to hear about your experience at our Frank Lloyd Wright location. This is not the level of service or food quality we aim to provide, and we’ll address the concerns you raised with our team. We’d appreciate the opportunity to make this right—please contact us with your visit details so we can investigate and improve.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"The reviewer reports very poor service and an unwelcoming comment about having a child, along with long wait times and disappointing, soggy, bland food portions—especially the $15 shrimp scampi pizza.\",\n  \"business_response\": \"We’re very sorry to hear about your experience at our Frank Lloyd Wright location. This is not the level of service or food quality we aim to provide, and we’ll address the concerns you raised with our team. We’d appreciate the opportunity to make this right—please contact us with your visit details so we can investigate and improve.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "If you want bland, boring, tasteless food, head over to the Chino BLANDido, where you can feast on \\\"Chinese\\\" BBQ Pork and jerk fried rice that is as",
+        "pred_stars": 1,
+        "key_insight": "The reviewer says the food is bland and tasteless, specifically calling out the BBQ pork and jerk fried rice as lacking flavor and being unexciting.",
+        "business_response": "We’re sorry to hear your meal didn’t meet expectations. We’d like the opportunity to learn more about what you ordered and how it was prepared so we can address the flavor and quality concerns you mentioned. Please contact us directly so we can make this right.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"The reviewer says the food is bland and tasteless, specifically calling out the BBQ pork and jerk fried rice as lacking flavor and being unexciting.\",\n  \"business_response\": \"We’re sorry to hear your meal didn’t meet expectations. We’d like the opportunity to learn more about what you ordered and how it was prepared so we can address the flavor and quality concerns you mentioned. Please contact us directly so we can make this right.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "Ever get that feeling the customer is really interfering with the bartenders work?  Yeah me to, this place is a joke.",
+        "pred_stars": 1,
+        "key_insight": "The reviewer feels the service experience was poor and that customers were interfering with the bartenders’ work, calling the place a “joke.”",
+        "business_response": "We’re sorry to hear your experience didn’t meet expectations. We strive to keep service smooth and welcoming, and we’d like the opportunity to learn more about what happened during your visit so we can address it with our team. Thank you for sharing your feedback.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"The reviewer feels the service experience was poor and that customers were interfering with the bartenders’ work, calling the place a “joke.”\",\n  \"business_response\": \"We’re sorry to hear your experience didn’t meet expectations. We strive to keep service smooth and welcoming, and we’d like the opportunity to learn more about what happened during your visit so we can address it with our team. Thank you for sharing your feedback.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "One thing I found it interesting is, you paid arms and legs in these kind of hotel restaurant, but the food doesn't taste good at all. \\n\\nWe came her",
+        "pred_stars": 2,
+        "key_insight": "The reviewer felt the food was bland and overpriced, and service was slow on Christmas Day despite many empty tables (about a 20-minute wait and long delays before being served).",
+        "business_response": "Thank you for sharing your experience, and we’re sorry your Christmas Day visit didn’t meet expectations. We understand the concerns about wait times and food quality, and we’ll review our service flow and kitchen standards to improve. We appreciate your feedback and hope you’ll give us another chance to provide a better experience.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"The reviewer felt the food was bland and overpriced, and service was slow on Christmas Day despite many empty tables (about a 20-minute wait and long delays before being served).\",\n  \"business_response\": \"Thank you for sharing your experience, and we’re sorry your Christmas Day visit didn’t meet expectations. We understand the concerns about wait times and food quality, and we’ll review our service flow and kitchen standards to improve. We appreciate your feedback and hope you’ll give us another chance to provide a better experience.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "This is my first time dining here. My friends have been raving about how good this place is so I decided to try it with other friends who have eaten h",
+        "pred_stars": 2,
+        "key_insight": "The all-you-can-eat sushi and oysters were not fresh, with reports of poor sauce and inconsistent sea urchin appearance. The service also made ordering mistakes, and the seating felt overly cramped.",
+        "business_response": "Thank you for sharing your experience and for the specific details. We’re sorry the sushi, oysters, and sea urchin did not meet freshness and presentation expectations, and that there was confusion with your order—this is not the standard we aim for. We’d like to speak with you directly to review what happened and improve our process; please contact us so we can make this right.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"The all-you-can-eat sushi and oysters were not fresh, with reports of poor sauce and inconsistent sea urchin appearance. The service also made ordering mistakes, and the seating felt overly cramped.\",\n  \"business_response\": \"Thank you for sharing your experience and for the specific details. We’re sorry the sushi, oysters, and sea urchin did not meet freshness and presentation expectations, and that there was confusion with your order—this is not the standard we aim for. We’d like to speak with you directly to review what happened and improve our process; please contact us so we can make this right.\"\n}"
+    },
+    {
+        "true_label": 1,
+        "review_snippet": "I am a 22 year old female. This is one of the worst hotels i have ever stayed at on the strip. The shopping obviously is great. We had to wait 45 minu",
+        "pred_stars": 1,
+        "key_insight": "Guests experienced extremely slow check-in and consistently rude, unaccommodating customer service (especially at Qua Spa and the gift shop), along with multiple billing/charge issues. The situation escalated during a serious illness, where front desk support and healthcare coordination were perceived as incorrect and unhelpful.",
+        "business_response": "We’re very sorry to hear about your experience and the distress you went through during your stay. Your feedback regarding check-in delays, spa staff conduct, and the assistance provided when you were ill has been shared with the appropriate teams for immediate review. We would like the opportunity to learn more about your visit and help make this right—please contact us with your reservation details so we can investigate thoroughly.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"Guests experienced extremely slow check-in and consistently rude, unaccommodating customer service (especially at Qua Spa and the gift shop), along with multiple billing/charge issues. The situation escalated during a serious illness, where front desk support and healthcare coordination were perceived as incorrect and unhelpful.\",\n  \"business_response\": \"We’re very sorry to hear about your experience and the distress you went through during your stay. Your feedback regarding check-in delays, spa staff conduct, and the assistance provided when you were ill has been shared with the appropriate teams for immediate review. We would like the opportunity to learn more about your visit and help make this right—please contact us with your reservation details so we can investigate thoroughly.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "We paid $250.00 for our room and there was no hair dryer, not enough towels, mold on the ceiling in the shower,  on the shower curtain liner, and dirt",
+        "pred_stars": 1,
+        "key_insight": "The room was not adequately prepared for the price: missing a hair dryer, insufficient towels, and cleanliness issues including mold on the shower ceiling and dirt on the shower curtain liner.",
+        "business_response": "Thank you for sharing these concerns. We’re sorry your stay fell short of expectations—especially regarding the missing amenities and the cleanliness issues you described. We will address this with our housekeeping team to ensure rooms are properly stocked and thoroughly inspected before guest arrival.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"The room was not adequately prepared for the price: missing a hair dryer, insufficient towels, and cleanliness issues including mold on the shower ceiling and dirt on the shower curtain liner.\",\n  \"business_response\": \"Thank you for sharing these concerns. We’re sorry your stay fell short of expectations—especially regarding the missing amenities and the cleanliness issues you described. We will address this with our housekeeping team to ensure rooms are properly stocked and thoroughly inspected before guest arrival.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "Table 10 did not meet my requirements for bomb Louisiana/Mississippi Delta food \\n\\nWe went because its a Creole and Cajun place and I like that kind ",
+        "pred_stars": 3,
+        "key_insight": "The reviewer found the food too basic and lacking flavor (shrimp po boy not standout, truffle mac not comparable to another restaurant) and also noted service was a bit slow, though they liked the decor and wine/bar area.",
+        "business_response": "Thank you for sharing your experience. We’re sorry the shrimp po boy and truffle mac didn’t meet your expectations and that service felt slow during your lunch visit. We’ll review this feedback with our team and hope you’ll give us another chance—especially for a drink or a different menu selection—so we can provide the standout flavors and pace you’re looking for.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The reviewer found the food too basic and lacking flavor (shrimp po boy not standout, truffle mac not comparable to another restaurant) and also noted service was a bit slow, though they liked the decor and wine/bar area.\",\n  \"business_response\": \"Thank you for sharing your experience. We’re sorry the shrimp po boy and truffle mac didn’t meet your expectations and that service felt slow during your lunch visit. We’ll review this feedback with our team and hope you’ll give us another chance—especially for a drink or a different menu selection—so we can provide the standout flavors and pace you’re looking for.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "Like an Ihop or Denny's inside Monte Carlo, but not as good. Not expensive, but we should of went to the food court that was around the corner, better",
+        "pred_stars": 2,
+        "key_insight": "The reviewer felt the restaurant was comparable to an IHOP/Denny’s but not as good, and suggested the nearby food court offered better value and more appetizing options.",
+        "business_response": "Thank you for sharing your feedback. We’re sorry to hear your experience didn’t meet expectations and that the value and appeal of our menu fell short compared to the nearby food court. We’d welcome the chance to learn more about what you ordered so we can address it and improve—please feel free to reach out with details.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"The reviewer felt the restaurant was comparable to an IHOP/Denny’s but not as good, and suggested the nearby food court offered better value and more appetizing options.\",\n  \"business_response\": \"Thank you for sharing your feedback. We’re sorry to hear your experience didn’t meet expectations and that the value and appeal of our menu fell short compared to the nearby food court. We’d welcome the chance to learn more about what you ordered so we can address it and improve—please feel free to reach out with details.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "Got there early. It was realy dead. I'm sure if the night were to continue on it may have gotten beter, but we left. Music was nothing really to remem",
+        "pred_stars": 2,
+        "key_insight": "The venue felt very slow/empty when they arrived and the music was forgettable, leading them to leave early. They’re open to a second chance if conditions improve later in the night.",
+        "business_response": "Thank you for sharing your experience. We’re sorry the atmosphere and music didn’t meet expectations when you visited, and we appreciate the feedback. We’d welcome the opportunity to make it up to you—please feel free to reach out so we can ensure you have a better experience next time.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"The venue felt very slow/empty when they arrived and the music was forgettable, leading them to leave early. They’re open to a second chance if conditions improve later in the night.\",\n  \"business_response\": \"Thank you for sharing your experience. We’re sorry the atmosphere and music didn’t meet expectations when you visited, and we appreciate the feedback. We’d welcome the opportunity to make it up to you—please feel free to reach out so we can ensure you have a better experience next time.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "When I sat down I noticed my tiny plate had old wasabi crust on it,but no worries I was politely given another one.Well I liked this place because It ",
+        "pred_stars": 3,
+        "key_insight": "The reviewer noted a cleanliness issue with an old wasabi crust on their plate, though they were given a replacement. They also found the sushi (mango roll) tasted like salsa and said they’ve had better sushi elsewhere, while praising the bento boxes as filling with authentic Japanese flavor.",
+        "business_response": "Thank you for sharing your experience. We’re glad we could promptly replace the plate, and we’re sorry for the cleanliness issue you encountered. We’ll review our food preparation and flavor profiles to ensure our sushi meets expectations, and we appreciate your positive feedback about the bento boxes and convenient location.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The reviewer noted a cleanliness issue with an old wasabi crust on their plate, though they were given a replacement. They also found the sushi (mango roll) tasted like salsa and said they’ve had better sushi elsewhere, while praising the bento boxes as filling with authentic Japanese flavor.\",\n  \"business_response\": \"Thank you for sharing your experience. We’re glad we could promptly replace the plate, and we’re sorry for the cleanliness issue you encountered. We’ll review our food preparation and flavor profiles to ensure our sushi meets expectations, and we appreciate your positive feedback about the bento boxes and convenient location.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "A disappointment. Chicken finger dinner consisted of two pathetic chicken strips and soggy fries. Bf had the catfish and was not blown away by it. Not",
+        "pred_stars": 1,
+        "key_insight": "The chicken finger dinner was disappointing, with only two small chicken strips and soggy fries; overall food quality didn’t meet expectations, though the okra was the only decent item.",
+        "business_response": "We’re sorry to hear your visit didn’t meet expectations, especially regarding the chicken strips and fries. We’d like the opportunity to make this right—please contact us with your visit details so we can review what happened and improve. Thank you for sharing your feedback, and we hope you’ll give us another chance.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"The chicken finger dinner was disappointing, with only two small chicken strips and soggy fries; overall food quality didn’t meet expectations, though the okra was the only decent item.\",\n  \"business_response\": \"We’re sorry to hear your visit didn’t meet expectations, especially regarding the chicken strips and fries. We’d like the opportunity to make this right—please contact us with your visit details so we can review what happened and improve. Thank you for sharing your feedback, and we hope you’ll give us another chance.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "This place used to be quite good but I think they may have had an ownership change recently.  Over the past 12 months or so we have seen the quality o",
+        "pred_stars": 2,
+        "key_insight": "The reviewer reports a recent ownership change and says food quality and service have declined over the past year, citing poor fajitas, inconsistent drinks, and very bad service when the bar crowd gets busy, with the manager seemingly avoiding customers.",
+        "business_response": "Thank you for sharing this feedback. We’re sorry to hear your experience has fallen below expectations—especially regarding food quality, drink consistency, and service during busy periods. We’d like the opportunity to make this right; please contact us so we can review what happened and work to improve immediately.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"The reviewer reports a recent ownership change and says food quality and service have declined over the past year, citing poor fajitas, inconsistent drinks, and very bad service when the bar crowd gets busy, with the manager seemingly avoiding customers.\",\n  \"business_response\": \"Thank you for sharing this feedback. We’re sorry to hear your experience has fallen below expectations—especially regarding food quality, drink consistency, and service during busy periods. We’d like the opportunity to make this right; please contact us so we can review what happened and work to improve immediately.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "High praises for the attentive service and friendly staff, but that's about it.\\n\\nThe experience began with cocktails; a fruit martini tasting almost",
+        "pred_stars": 2,
+        "key_insight": "While the staff was attentive and friendly, multiple dishes and drinks were poorly executed—cocktails were unbalanced, the lobster salad had very little lobster, the salmon lacked expected cedar-plank flavor and was served with soggy couscous, and the duck arrived undercooked/rare. The server also didn’t offer a dessert menu, and management presence felt more like oversight than guest check-in.",
+        "business_response": "Thank you for sharing these detailed notes. We’re glad our team was responsive in correcting the duck, but we’re disappointed that the cocktails and several dishes didn’t meet expectations, and that dessert wasn’t offered. We’d like to speak with you directly to understand what happened and ensure improvements—please contact us so we can follow up.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"While the staff was attentive and friendly, multiple dishes and drinks were poorly executed—cocktails were unbalanced, the lobster salad had very little lobster, the salmon lacked expected cedar-plank flavor and was served with soggy couscous, and the duck arrived undercooked/rare. The server also didn’t offer a dessert menu, and management presence felt more like oversight than guest check-in.\",\n  \"business_response\": \"Thank you for sharing these detailed notes. We’re glad our team was responsive in correcting the duck, but we’re disappointed that the cocktails and several dishes didn’t meet expectations, and that dessert wasn’t offered. We’d like to speak with you directly to understand what happened and ensure improvements—please contact us so we can follow up.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "I started going here since the place opened a few years ago. There was no other Chinese place in Surprise (that I knew of) at the time. Oil is definit",
+        "pred_stars": 3,
+        "key_insight": "The reviewer enjoys the orange chicken and lo mein but found some dishes (like a beef dish) to be poor, notes that lunch specials are pricey, and mentions limitations such as not taking American Express and the owner being on the phone while taking orders.",
+        "business_response": "Thank you for sharing your experience and for being a long-time customer. We’re glad you’ve enjoyed our orange chicken and lo mein, and we’re sorry to hear the beef dish didn’t meet your expectations. We’ll also review our lunch pricing and service flow, and we appreciate the feedback about payment options—please feel free to reach out so we can help suggest vegetarian-friendly choices.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The reviewer enjoys the orange chicken and lo mein but found some dishes (like a beef dish) to be poor, notes that lunch specials are pricey, and mentions limitations such as not taking American Express and the owner being on the phone while taking orders.\",\n  \"business_response\": \"Thank you for sharing your experience and for being a long-time customer. We’re glad you’ve enjoyed our orange chicken and lo mein, and we’re sorry to hear the beef dish didn’t meet your expectations. We’ll also review our lunch pricing and service flow, and we appreciate the feedback about payment options—please feel free to reach out so we can help suggest vegetarian-friendly choices.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "I go to this CVS pretty often because of how close it is to where I live and because it's got overall pretty decent prices when it comes to beer and c",
+        "pred_stars": 2,
+        "key_insight": "The reviewer praises convenient location and decent prices for beer/champagne, but reports feeling unsafe in the mornings due to aggressive individuals demanding money near the back entrance and around where they lock their bike.",
+        "business_response": "Thank you for sharing your experience. We’re sorry you felt unsafe—our goal is to keep the store and surrounding area welcoming for all customers. We will address this with our team and review our procedures for monitoring the entrances and responding appropriately to disruptive behavior.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"The reviewer praises convenient location and decent prices for beer/champagne, but reports feeling unsafe in the mornings due to aggressive individuals demanding money near the back entrance and around where they lock their bike.\",\n  \"business_response\": \"Thank you for sharing your experience. We’re sorry you felt unsafe—our goal is to keep the store and surrounding area welcoming for all customers. We will address this with our team and review our procedures for monitoring the entrances and responding appropriately to disruptive behavior.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "Nice to look at, but it's much more crowded and everything's more expensive than the NYC location.",
+        "pred_stars": 3,
+        "key_insight": "The reviewer liked the appearance, but found the venue much more crowded and noted that prices are higher than the NYC location.",
+        "business_response": "Thank you for sharing your feedback—we’re glad you enjoyed the atmosphere. We’re sorry to hear the crowding and pricing didn’t meet your expectations; we’ll review our guest flow and pricing communication to help improve the experience. We hope you’ll give us another visit in the future.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The reviewer liked the appearance, but found the venue much more crowded and noted that prices are higher than the NYC location.\",\n  \"business_response\": \"Thank you for sharing your feedback—we’re glad you enjoyed the atmosphere. We’re sorry to hear the crowding and pricing didn’t meet your expectations; we’ll review our guest flow and pricing communication to help improve the experience. We hope you’ll give us another visit in the future.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "Well for starters I am not a big fan of the Beatles (Yes we do exist) so I was not really looking forward to this. We had reasonable seats and the ven",
+        "pred_stars": 3,
+        "key_insight": "The reviewer found the show to be a sensory overload with a 360-stage setup that can cause viewers to miss elements, and felt the acrobatics were only okay compared to other Cirque-style shows. They did compliment the soundtrack and overall venue experience, but noted it depends heavily on whether you’re a Beatles fan.",
+        "business_response": "Thank you for sharing your experience. We’re glad you enjoyed the soundtrack and the overall venue setup, and we’re sorry the staging felt overwhelming and that the acrobatics didn’t meet your expectations. We appreciate your feedback and hope you’ll consider joining us again—especially if you’re looking for a different style of performance.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The reviewer found the show to be a sensory overload with a 360-stage setup that can cause viewers to miss elements, and felt the acrobatics were only okay compared to other Cirque-style shows. They did compliment the soundtrack and overall venue experience, but noted it depends heavily on whether you’re a Beatles fan.\",\n  \"business_response\": \"Thank you for sharing your experience. We’re glad you enjoyed the soundtrack and the overall venue setup, and we’re sorry the staging felt overwhelming and that the acrobatics didn’t meet your expectations. We appreciate your feedback and hope you’ll consider joining us again—especially if you’re looking for a different style of performance.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "Wasn't impressed by this show and even slept through part of it. I saw another cirque du Soleil show at Suffolk Downs a few years back that was much m",
+        "pred_stars": 3,
+        "key_insight": "The reviewer wasn’t impressed overall and even slept through part of the show, though they did compliment the performers’ acrobatics and diving as impressive.",
+        "business_response": "Thank you for sharing your feedback. We’re glad you enjoyed the performers’ acrobatics and diving, and we’re sorry the overall experience didn’t meet your expectations. We’ll review your comments to help ensure future shows keep every guest fully engaged from start to finish.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The reviewer wasn’t impressed overall and even slept through part of the show, though they did compliment the performers’ acrobatics and diving as impressive.\",\n  \"business_response\": \"Thank you for sharing your feedback. We’re glad you enjoyed the performers’ acrobatics and diving, and we’re sorry the overall experience didn’t meet your expectations. We’ll review your comments to help ensure future shows keep every guest fully engaged from start to finish.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "Wow - what an experience my wife and I had - \\n\\nFirst, we weren't planning on seeing a show, but happened to be in the casino when they were handing ",
+        "pred_stars": 2,
+        "key_insight": "The show was highly entertaining and the performers were praised, but the review heavily criticizes theatre staff for an extremely slow box office process and for failing to address disruptive, out-of-control guests during the performance.",
+        "business_response": "Thank you for sharing your experience. We’re glad to hear you enjoyed the performers, and we sincerely apologize for the delays at the box office and for the lack of effective assistance once you reported the disruption. We’ll review this with our team to ensure guests are supported promptly and seating concerns are handled appropriately so everyone can enjoy the show.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"The show was highly entertaining and the performers were praised, but the review heavily criticizes theatre staff for an extremely slow box office process and for failing to address disruptive, out-of-control guests during the performance.\",\n  \"business_response\": \"Thank you for sharing your experience. We’re glad to hear you enjoyed the performers, and we sincerely apologize for the delays at the box office and for the lack of effective assistance once you reported the disruption. We’ll review this with our team to ensure guests are supported promptly and seating concerns are handled appropriately so everyone can enjoy the show.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "I have to say this place is WAAAAY overhyped in Yelp. Went for breakfast with my finace\\u00e9 a couple of weeks ago.\\n\\nKudos for the original dishes ",
+        "pred_stars": 2,
+        "key_insight": "The reviewer found the food and service disappointing: they reported non-fresh orange juice, burned coffee, slow service, and a greasy/salty crepe sauce that left a bad aftertaste. They only praised the walnut pancake and the restaurant’s originality.",
+        "business_response": "Thank you for sharing this feedback. We’re sorry your breakfast didn’t meet expectations—especially regarding the juice, coffee, timing, and the crepe sauce—and we’ll address these concerns with our team to improve consistency. We’d appreciate the opportunity to make it right; please contact us so we can learn more about your visit.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"The reviewer found the food and service disappointing: they reported non-fresh orange juice, burned coffee, slow service, and a greasy/salty crepe sauce that left a bad aftertaste. They only praised the walnut pancake and the restaurant’s originality.\",\n  \"business_response\": \"Thank you for sharing this feedback. We’re sorry your breakfast didn’t meet expectations—especially regarding the juice, coffee, timing, and the crepe sauce—and we’ll address these concerns with our team to improve consistency. We’d appreciate the opportunity to make it right; please contact us so we can learn more about your visit.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "PBelow average service.  Had a pedi and while the polish looks good, the rest was sad.  The young man who did it literally attacked me with cuticle ni",
+        "pred_stars": 1,
+        "key_insight": "The reviewer reports rough, painful service—being attacked with cuticle nippers, still stinging hours later, and an inadequate massage—plus an extreme, uncomfortable manicure experience where they felt their arms were pulled too aggressively.",
+        "business_response": "We’re very sorry to hear about your experience and the discomfort you described. This is not the level of care we aim to provide, and we’d like to speak with you to understand what happened during your visit so we can address it with our team. Please contact us directly so we can make this right.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"The reviewer reports rough, painful service—being attacked with cuticle nippers, still stinging hours later, and an inadequate massage—plus an extreme, uncomfortable manicure experience where they felt their arms were pulled too aggressively.\",\n  \"business_response\": \"We’re very sorry to hear about your experience and the discomfort you described. This is not the level of care we aim to provide, and we’d like to speak with you to understand what happened during your visit so we can address it with our team. Please contact us directly so we can make this right.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "SLOW SERVICE....the food was gross, chicks(waitresses) weren't hot and a bit rude also, maybe it was a bad night, but I been to the one in san diego a",
+        "pred_stars": 1,
+        "key_insight": "The reviewer reports slow service, gross-tasting food, and rude waitstaff, contrasting it unfavorably with a prior San Diego location experience.",
+        "business_response": "We’re very sorry to hear about your experience and that the service and food did not meet expectations. This isn’t the standard we aim for, and we’d like to learn more so we can address what happened that night. Please contact us directly with the date and details of your visit so we can follow up appropriately.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 1,\n  \"key_insight\": \"The reviewer reports slow service, gross-tasting food, and rude waitstaff, contrasting it unfavorably with a prior San Diego location experience.\",\n  \"business_response\": \"We’re very sorry to hear about your experience and that the service and food did not meet expectations. This isn’t the standard we aim for, and we’d like to learn more so we can address what happened that night. Please contact us directly with the date and details of your visit so we can follow up appropriately.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "Unfortunately my apartment complex caught fire, and I was forced to stay here temporarily.  My daughter, I and two cats came here. I asked for a \\\"han",
+        "pred_stars": 4,
+        "key_insight": "The stay was prompted by an apartment fire, and while the neighborhood and train noise were concerns, the safety features—especially the bathroom safety bars—were a major positive for accessibility needs.",
+        "business_response": "We’re very sorry you and your family were displaced by the apartment fire, and we appreciate you choosing to stay with us temporarily. Thank you for highlighting the bathroom safety bars and accessibility accommodations—your comfort and safety are important to us. We’re also glad you’d consider our Scottsdale location again, and we’ll continue working to improve the overall guest experience.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 4,\n  \"key_insight\": \"The stay was prompted by an apartment fire, and while the neighborhood and train noise were concerns, the safety features—especially the bathroom safety bars—were a major positive for accessibility needs.\",\n  \"business_response\": \"We’re very sorry you and your family were displaced by the apartment fire, and we appreciate you choosing to stay with us temporarily. Thank you for highlighting the bathroom safety bars and accessibility accommodations—your comfort and safety are important to us. We’re also glad you’d consider our Scottsdale location again, and we’ll continue working to improve the overall guest experience.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "When I first moved to Lawrenceville Geno's was one of the first restaurant I experienced. I sat at the bar one afternoon and ordered a beer while chat",
+        "pred_stars": 2,
+        "key_insight": "The reviewer loved the Italian sub and service in the past, but says recent visits suffered from poor availability (many menu items unavailable), slow/inattentive service (server walked away before ordering size), and inconsistent operations (erratic hours), leading to disappointing, incomplete portions and an overall decline in quality.",
+        "business_response": "Thank you for sharing this feedback—I'm truly sorry your recent visit didn’t match the experience you had before. We’re addressing the issues you mentioned regarding service responsiveness, menu availability, and consistent hours so guests can count on a complete, fresh meal. If you’re willing, please contact us directly so we can learn more about your visit and make it right.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"The reviewer loved the Italian sub and service in the past, but says recent visits suffered from poor availability (many menu items unavailable), slow/inattentive service (server walked away before ordering size), and inconsistent operations (erratic hours), leading to disappointing, incomplete portions and an overall decline in quality.\",\n  \"business_response\": \"Thank you for sharing this feedback—I'm truly sorry your recent visit didn’t match the experience you had before. We’re addressing the issues you mentioned regarding service responsiveness, menu availability, and consistent hours so guests can count on a complete, fresh meal. If you’re willing, please contact us directly so we can learn more about your visit and make it right.\"\n}"
+    },
+    {
+        "true_label": 2,
+        "review_snippet": "The biggest issue we had and what made us leave sooner than we wanted were the myriad fruit flies buzzing around around the bar area.\\n\\nVisited Micha",
+        "pred_stars": 3,
+        "key_insight": "Fruit flies around the bar area were the biggest issue and contributed to leaving earlier than planned. The pizza had good crust and sauce, but it was overloaded with peppers and the sausage was underwhelming.",
+        "business_response": "Thank you for sharing your experience. We’re sorry about the fruit fly issue near the bar—this is not the standard we aim for, and we will address it with our team. We also appreciate the feedback on the pepper portioning and sausage quality, and we’ll review our kitchen prep to ensure better consistency going forward.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"Fruit flies around the bar area were the biggest issue and contributed to leaving earlier than planned. The pizza had good crust and sauce, but it was overloaded with peppers and the sausage was underwhelming.\",\n  \"business_response\": \"Thank you for sharing your experience. We’re sorry about the fruit fly issue near the bar—this is not the standard we aim for, and we will address it with our team. We also appreciate the feedback on the pepper portioning and sausage quality, and we’ll review our kitchen prep to ensure better consistency going forward.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "I feel like Ra is too focused on social and not sushi. Good for groups, and decent happy hour prices. Lots of cute waitresses too.",
+        "pred_stars": 3,
+        "key_insight": "The reviewer feels the restaurant is more focused on social atmosphere than sushi, though they note it’s good for groups and has decent happy hour prices.",
+        "business_response": "Thanks for sharing your feedback. We’re glad you enjoyed the group-friendly vibe and our happy hour offerings. We’ll take your comments to heart and work to ensure our sushi experience remains a top priority for every guest.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The reviewer feels the restaurant is more focused on social atmosphere than sushi, though they note it’s good for groups and has decent happy hour prices.\",\n  \"business_response\": \"Thanks for sharing your feedback. We’re glad you enjoyed the group-friendly vibe and our happy hour offerings. We’ll take your comments to heart and work to ensure our sushi experience remains a top priority for every guest.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "It Was closed but   The Building  is Awesome and the Locations on the water is Fantastic",
+        "pred_stars": 4,
+        "key_insight": "The business appears to be closed, but the reviewer compliments the building and the waterfront location as fantastic.",
+        "business_response": "Thank you for the kind words about our building and waterfront location. We’re sorry for any confusion regarding our current status, and we appreciate you taking the time to share your experience. We hope to welcome you back soon.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 4,\n  \"key_insight\": \"The business appears to be closed, but the reviewer compliments the building and the waterfront location as fantastic.\",\n  \"business_response\": \"Thank you for the kind words about our building and waterfront location. We’re sorry for any confusion regarding our current status, and we appreciate you taking the time to share your experience. We hope to welcome you back soon.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "I chill at White Castle 'cause it's the best\\nBut I'm fly at Fat Burger when I'm way out west!\\n\\nSo the lyrics led me to this place but I must say it",
+        "pred_stars": 3,
+        "key_insight": "The reviewer says the burger was not terrible but didn’t live up to the hype, and the default build with sweet relish tasted “plain weird.”",
+        "business_response": "Thanks for taking the time to share your experience. We’re glad the burger wasn’t a letdown, but we’re sorry the default sweet relish didn’t work for you—your feedback is helpful. Next time, we’d be happy to recommend a build without relish so you can enjoy the burger the way you prefer.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The reviewer says the burger was not terrible but didn’t live up to the hype, and the default build with sweet relish tasted “plain weird.”\",\n  \"business_response\": \"Thanks for taking the time to share your experience. We’re glad the burger wasn’t a letdown, but we’re sorry the default sweet relish didn’t work for you—your feedback is helpful. Next time, we’d be happy to recommend a build without relish so you can enjoy the burger the way you prefer.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "Had to visit the \\\"Famous\\\" Primanti Brother's Bar and Grill during my first visit to Pittsburgh, but most likely will only go back if my friends/fami",
+        "pred_stars": 3,
+        "key_insight": "The portions and value were praised, and the staff/atmosphere were friendly and clean, but the food was described as very bland with limp, unseasoned fries and soft bread that didn’t hold up well.",
+        "business_response": "Thank you for taking the time to share your experience. We’re glad you enjoyed the generous portions, great service, and comfortable atmosphere, and we’re sorry the flavors and fries didn’t meet your expectations. We’ll be sure to pass your feedback to our kitchen team so we can work on seasoning and sandwich build consistency.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The portions and value were praised, and the staff/atmosphere were friendly and clean, but the food was described as very bland with limp, unseasoned fries and soft bread that didn’t hold up well.\",\n  \"business_response\": \"Thank you for taking the time to share your experience. We’re glad you enjoyed the generous portions, great service, and comfortable atmosphere, and we’re sorry the flavors and fries didn’t meet your expectations. We’ll be sure to pass your feedback to our kitchen team so we can work on seasoning and sandwich build consistency.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "I suggest staying somewhere else unless you only plan to sleep in your room at night and aren't looking for anything but a bed.  The only reason I giv",
+        "pred_stars": 3,
+        "key_insight": "The hotel experience fell below expectations (long check-in line, room not ready, weak shower water pressure, small TV and limited channels), though the casino staff and dealers were a major highlight and made the stay worthwhile.",
+        "business_response": "Thank you for sharing your detailed feedback. We’re sorry for the inconvenience with the check-in process and the room readiness, and we appreciate your comments about the room amenities and shower water pressure. We’re glad to hear you enjoyed the casino experience and the service from our dealers and pit staff, and we’ll use your input to help improve the overall guest experience.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The hotel experience fell below expectations (long check-in line, room not ready, weak shower water pressure, small TV and limited channels), though the casino staff and dealers were a major highlight and made the stay worthwhile.\",\n  \"business_response\": \"Thank you for sharing your detailed feedback. We’re sorry for the inconvenience with the check-in process and the room readiness, and we appreciate your comments about the room amenities and shower water pressure. We’re glad to hear you enjoyed the casino experience and the service from our dealers and pit staff, and we’ll use your input to help improve the overall guest experience.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "Although I still believe that the front desk staff at the Concourse have serious communication and follow-up issues, I must say that Customer Service ",
+        "pred_stars": 3,
+        "key_insight": "The front desk staff had communication and follow-up issues, but Customer Service Manager Stephanie LaBella provided exceptional support by spending an hour on the phone, taking notes, creating a plan for improvements, and offering a refund for poor service.",
+        "business_response": "Thank you for sharing your experience. We’re sorry for the communication and follow-up issues you encountered, and we appreciate you recognizing the effort Stephanie made to listen, document your concerns, and work toward a resolution. We’ll review your feedback with our team to improve consistency at the front desk and ensure better service moving forward.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The front desk staff had communication and follow-up issues, but Customer Service Manager Stephanie LaBella provided exceptional support by spending an hour on the phone, taking notes, creating a plan for improvements, and offering a refund for poor service.\",\n  \"business_response\": \"Thank you for sharing your experience. We’re sorry for the communication and follow-up issues you encountered, and we appreciate you recognizing the effort Stephanie made to listen, document your concerns, and work toward a resolution. We’ll review your feedback with our team to improve consistency at the front desk and ensure better service moving forward.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "It's getting harder to find awesome deals for meals in Vegas.  Gone are the days you can get buffets for $5 or prime rib dinners for $7.99.  Oh Sahara",
+        "pred_stars": 4,
+        "key_insight": "The prime rib dinner was good and service was solid, but the reviewer felt the pricing was a bit high for Vegas and noted the prime rib was less tasty when ordered medium well instead of medium rare.",
+        "business_response": "Thank you for the feedback and for giving Grand Cafe a try. We’re glad you enjoyed the prime rib and found the service good, and we appreciate your comments about pricing and doneness—our team will be happy to help you choose the perfect temperature next time. We hope to welcome you back for another great local 24-hour meal.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 4,\n  \"key_insight\": \"The prime rib dinner was good and service was solid, but the reviewer felt the pricing was a bit high for Vegas and noted the prime rib was less tasty when ordered medium well instead of medium rare.\",\n  \"business_response\": \"Thank you for the feedback and for giving Grand Cafe a try. We’re glad you enjoyed the prime rib and found the service good, and we appreciate your comments about pricing and doneness—our team will be happy to help you choose the perfect temperature next time. We hope to welcome you back for another great local 24-hour meal.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "Everybody loves this place, and maybe because of all the word of mouth i was expecting something spectacular, but i was just kind of like, oh, so this",
+        "pred_stars": 2,
+        "key_insight": "The reviewer was disappointed by the door attendant’s rude, overly strict ID handling on Valentine’s Day, which hurt the first impression. While the food was generally good and live entertainment was enjoyable, the music was too loud and the pizza was only so-so for them.",
+        "business_response": "Thank you for sharing your experience, and we’re sorry the door team’s ID check came across as rude or excessive—this is not the standard we aim for. We’re glad you enjoyed the food overall and the live entertainment, and we’ll review our entry process and sound levels to ensure a more welcoming, comfortable visit. We hope you’ll give us another chance to make it right.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"The reviewer was disappointed by the door attendant’s rude, overly strict ID handling on Valentine’s Day, which hurt the first impression. While the food was generally good and live entertainment was enjoyable, the music was too loud and the pizza was only so-so for them.\",\n  \"business_response\": \"Thank you for sharing your experience, and we’re sorry the door team’s ID check came across as rude or excessive—this is not the standard we aim for. We’re glad you enjoyed the food overall and the live entertainment, and we’ll review our entry process and sound levels to ensure a more welcoming, comfortable visit. We hope you’ll give us another chance to make it right.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "This place is close to my work, so I go here sometimes because I like Chevron.  My only complaints are that their gas pumps are SLOW - and about 25% o",
+        "pred_stars": 3,
+        "key_insight": "The reviewer likes the convenience and Chevron brand, but complains that the gas pumps are slow and that about 25% of the time the card swipe at the pump fails, requiring payment at the counter.",
+        "business_response": "Thank you for sharing your experience. We’re sorry for the delays and the card-swipe issues you encountered—this is not the level of service we aim to provide. We’ll review the pump/payment system performance and work to ensure transactions at the pump are smooth and efficient; if you’d like, please contact us with the date/time of your visit so we can investigate further.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The reviewer likes the convenience and Chevron brand, but complains that the gas pumps are slow and that about 25% of the time the card swipe at the pump fails, requiring payment at the counter.\",\n  \"business_response\": \"Thank you for sharing your experience. We’re sorry for the delays and the card-swipe issues you encountered—this is not the level of service we aim to provide. We’ll review the pump/payment system performance and work to ensure transactions at the pump are smooth and efficient; if you’d like, please contact us with the date/time of your visit so we can investigate further.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "Just came to pass the time with a drink. Nice location on the grand canal inside the Venetian, great ambience. \\n\\nThe margarita, advertised as \\\"the ",
+        "pred_stars": 4,
+        "key_insight": "The venue and ambience were praised, and while the Classic margarita was considered too syrupy and not the “best in town,” the jalapeño-infused margarita was a clear improvement with fresher ingredients and a more interesting flavor.",
+        "business_response": "Thank you for the thoughtful review and for sharing your experience. We’re glad you enjoyed the ambience and found the jalapeño-infused margarita to be a step up—your feedback about the Classic being too syrupy is especially helpful. We’ll be sure to pass this along to our team and look forward to welcoming you back for another drink on your next visit.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 4,\n  \"key_insight\": \"The venue and ambience were praised, and while the Classic margarita was considered too syrupy and not the “best in town,” the jalapeño-infused margarita was a clear improvement with fresher ingredients and a more interesting flavor.\",\n  \"business_response\": \"Thank you for the thoughtful review and for sharing your experience. We’re glad you enjoyed the ambience and found the jalapeño-infused margarita to be a step up—your feedback about the Classic being too syrupy is especially helpful. We’ll be sure to pass this along to our team and look forward to welcoming you back for another drink on your next visit.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "Now this is a true dive.  I believe the sign out front says that they open at 6a.m.  And no, they don't open that early to serve you scrambled eggs an",
+        "pred_stars": 5,
+        "key_insight": "The reviewer loved the authentic dive-bar vibe and described it as a must-visit during a dive bar crawl, noting the bar feels random and unpretentious with an older, heavy-drinking crowd.",
+        "business_response": "Thank you for the great review and for capturing the true dive-bar experience so well. We’re glad you enjoyed the atmosphere and the Moscow Mule conversation—hope to see you again on your next crawl!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer loved the authentic dive-bar vibe and described it as a must-visit during a dive bar crawl, noting the bar feels random and unpretentious with an older, heavy-drinking crowd.\",\n  \"business_response\": \"Thank you for the great review and for capturing the true dive-bar experience so well. We’re glad you enjoyed the atmosphere and the Moscow Mule conversation—hope to see you again on your next crawl!\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "Not bad. Fairly small location. Staff was friendly, selection is kind of lacking.",
+        "pred_stars": 3,
+        "key_insight": "The staff was friendly, but the store is fairly small and the product selection feels lacking.",
+        "business_response": "Thank you for taking the time to share your feedback. We’re glad you found our staff friendly, and we appreciate your comments about our space and selection. We’ll review how we can better optimize our offerings to serve you more effectively—please feel free to share any specific items you’d like to see.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The staff was friendly, but the store is fairly small and the product selection feels lacking.\",\n  \"business_response\": \"Thank you for taking the time to share your feedback. We’re glad you found our staff friendly, and we appreciate your comments about our space and selection. We’ll review how we can better optimize our offerings to serve you more effectively—please feel free to share any specific items you’d like to see.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "So I came back today, a week later, and it Was kind of disappointing when I didn't  see them making new dishes. I sat and literally waited and counted",
+        "pred_stars": 2,
+        "key_insight": "The reviewer was disappointed that no new dishes were added to the sushi-go-round during their 30–40 minute visit, leading to dry-looking rolls and a sense that items were only replenished after the belt was cleared.",
+        "business_response": "Thank you for sharing your experience. We’re sorry that the sushi-go-round was not replenished as expected during your visit and that the rolls you saw appeared dry. We’ll review our replenishment process with the team to ensure fresh items are added consistently, and we’d appreciate the chance to welcome you back—please feel free to ask our staff for recommendations on specialty rolls.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"The reviewer was disappointed that no new dishes were added to the sushi-go-round during their 30–40 minute visit, leading to dry-looking rolls and a sense that items were only replenished after the belt was cleared.\",\n  \"business_response\": \"Thank you for sharing your experience. We’re sorry that the sushi-go-round was not replenished as expected during your visit and that the rolls you saw appeared dry. We’ll review our replenishment process with the team to ensure fresh items are added consistently, and we’d appreciate the chance to welcome you back—please feel free to ask our staff for recommendations on specialty rolls.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "Grassroots was an enjoyable experience.  Good food, good service and nice decor. I had the grilled shrimp and jalape\\u00f1o cheddar grits.  The grits ",
+        "pred_stars": 4,
+        "key_insight": "The reviewer praised the overall experience—good food, good service, and nice decor—with standout dishes (grits and heirloom tomatoes), but felt the meal was enjoyable without anything exceptional enough to prompt a quick return.",
+        "business_response": "Thank you for the thoughtful review and for highlighting our food, service, and decor. We’re glad the grilled shrimp and jalapeño cheddar grits (and your wife’s tuna with heirloom tomatoes) were standout favorites. We hope you’ll visit again soon so we can create a meal worth “raving about” on your next visit.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 4,\n  \"key_insight\": \"The reviewer praised the overall experience—good food, good service, and nice decor—with standout dishes (grits and heirloom tomatoes), but felt the meal was enjoyable without anything exceptional enough to prompt a quick return.\",\n  \"business_response\": \"Thank you for the thoughtful review and for highlighting our food, service, and decor. We’re glad the grilled shrimp and jalapeño cheddar grits (and your wife’s tuna with heirloom tomatoes) were standout favorites. We hope you’ll visit again soon so we can create a meal worth “raving about” on your next visit.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "I couldn't agree more with the previous 5 or so reviews.  This side of town desperately needs a better grocery store.  Yes, Rollins is too expensive, ",
+        "pred_stars": 4,
+        "key_insight": "The reviewer criticizes Rollins for being too expensive, having a weak selection, and often poor produce, but praises the convenient location, good hours, friendly staff, and reliability for quick items like detergent and cough drops.",
+        "business_response": "Thank you for taking the time to share your feedback. We’re glad our convenient location, helpful and friendly team, and reliable everyday items have been able to meet your needs, and we’re pleased you’ve found our Mexican food selections as well. We’ll also take your comments about pricing, selection, and produce quality seriously as we work to improve—please feel free to reach out if there are specific items you’d like us to carry or stock more consistently.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 4,\n  \"key_insight\": \"The reviewer criticizes Rollins for being too expensive, having a weak selection, and often poor produce, but praises the convenient location, good hours, friendly staff, and reliability for quick items like detergent and cough drops.\",\n  \"business_response\": \"Thank you for taking the time to share your feedback. We’re glad our convenient location, helpful and friendly team, and reliable everyday items have been able to meet your needs, and we’re pleased you’ve found our Mexican food selections as well. We’ll also take your comments about pricing, selection, and produce quality seriously as we work to improve—please feel free to reach out if there are specific items you’d like us to carry or stock more consistently.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "I love the shops here but it is such a pain in the ass if you ever want run in to grab something and jet out due to the (weird) strategic layout thank",
+        "pred_stars": 3,
+        "key_insight": "The reviewer loves the variety of shops and dining, but finds the mall layout confusing and frustrating for quick trips, with particularly poor parking during holidays.",
+        "business_response": "Thank you for sharing your feedback—we’re glad you enjoy browsing and dining with colleagues. We’re sorry the layout and parking made your visits feel difficult, especially during peak holiday times. We’ll pass this along to our team to help improve wayfinding and the overall guest experience for those who are in a hurry.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The reviewer loves the variety of shops and dining, but finds the mall layout confusing and frustrating for quick trips, with particularly poor parking during holidays.\",\n  \"business_response\": \"Thank you for sharing your feedback—we’re glad you enjoy browsing and dining with colleagues. We’re sorry the layout and parking made your visits feel difficult, especially during peak holiday times. We’ll pass this along to our team to help improve wayfinding and the overall guest experience for those who are in a hurry.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "Bacchanal has a lot of food options but there weren't really any dishes that stood out to me. So, if you prefer quantity over quality, then this is th",
+        "pred_stars": 3,
+        "key_insight": "The reviewer liked the efficient check-in and wait-time texting process, but felt the food lacked standout dishes and preferred quantity over quality.",
+        "business_response": "Thank you for sharing your experience. We’re glad you appreciated our streamlined check-in process and the convenience of waiting while you explore the Forum Shops. We’ll take your feedback about the menu and dish variety to heart, and we hope you’ll consider giving Bacchanal another try in the future.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The reviewer liked the efficient check-in and wait-time texting process, but felt the food lacked standout dishes and preferred quantity over quality.\",\n  \"business_response\": \"Thank you for sharing your experience. We’re glad you appreciated our streamlined check-in process and the convenience of waiting while you explore the Forum Shops. We’ll take your feedback about the menu and dish variety to heart, and we hope you’ll consider giving Bacchanal another try in the future.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "Ok, this place is cool inside ... LOL ... get it?  But it's small and it's pricey to get into.  I mean, exactly how long can a person hang out in here",
+        "pred_stars": 2,
+        "key_insight": "The reviewer says the venue is small and overpriced, with high entry costs and expensive photo charges. They also mention discomfort due to feeling too cold during the visit.",
+        "business_response": "Thank you for sharing your feedback. We’re glad you enjoyed the experience inside, and we’re sorry it felt too small or pricey for your visit. We’ll review our pricing and guest comfort details to ensure the experience is enjoyable and worthwhile for everyone.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 2,\n  \"key_insight\": \"The reviewer says the venue is small and overpriced, with high entry costs and expensive photo charges. They also mention discomfort due to feeling too cold during the visit.\",\n  \"business_response\": \"Thank you for sharing your feedback. We’re glad you enjoyed the experience inside, and we’re sorry it felt too small or pricey for your visit. We’ll review our pricing and guest comfort details to ensure the experience is enjoyable and worthwhile for everyone.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "I'm giving it a 3-stars for the Chai Latte that I ordered.  It was delicious and instantly warmed me.  Not too sweet which I like.  \\n\\nThe service...",
+        "pred_stars": 3,
+        "key_insight": "The chai latte was delicious—well-balanced and not too sweet—but the service felt rushed and standoff-ish, and there was no music playing, which hurt the overall experience.",
+        "business_response": "Thank you for sharing your feedback—we’re glad you enjoyed the chai latte and that it hit the right balance for you. We’re sorry the service felt rushed and standoff-ish; we’ll coach our team to be more welcoming and unhurried, even when the line is short. We’ll also review our in-store music setup to ensure the atmosphere matches what you expect.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The chai latte was delicious—well-balanced and not too sweet—but the service felt rushed and standoff-ish, and there was no music playing, which hurt the overall experience.\",\n  \"business_response\": \"Thank you for sharing your feedback—we’re glad you enjoyed the chai latte and that it hit the right balance for you. We’re sorry the service felt rushed and standoff-ish; we’ll coach our team to be more welcoming and unhurried, even when the line is short. We’ll also review our in-store music setup to ensure the atmosphere matches what you expect.\"\n}"
+    },
+    {
+        "true_label": 3,
+        "review_snippet": "I'm conflicted about bumping this rating up to four stars, but will wait until year's end to see if the above average service I've experienced here in",
+        "pred_stars": 4,
+        "key_insight": "The store has strong positives—fresh produce, a clean and well-displayed layout, and an excellent meat counter with helpful, non-condescending guidance—but customer service at checkout has been inconsistent (ranging from apathetic to attentive).",
+        "business_response": "Thank you for the thoughtful review and for highlighting what we’re doing well—our fresh produce, clean store, and especially the meat counter team’s service. We’re glad checkout service has been improving recently, and we’ll continue working to ensure consistency across all departments. We appreciate you giving us the chance to earn that extra star as you see continued progress.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 4,\n  \"key_insight\": \"The store has strong positives—fresh produce, a clean and well-displayed layout, and an excellent meat counter with helpful, non-condescending guidance—but customer service at checkout has been inconsistent (ranging from apathetic to attentive).\",\n  \"business_response\": \"Thank you for the thoughtful review and for highlighting what we’re doing well—our fresh produce, clean store, and especially the meat counter team’s service. We’re glad checkout service has been improving recently, and we’ll continue working to ensure consistency across all departments. We appreciate you giving us the chance to earn that extra star as you see continued progress.\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "Summary: A great arrangement of mostly Asian influenced flavors that provides new takes on relatively familiar dishes. But what I also like about this",
+        "pred_stars": 5,
+        "key_insight": "The reviewer praises the restaurant’s creative Asian-influenced flavors and standout textures, highlighting exceptional edamame, a perfect heirloom tomato salad with tender steak, and crisp charred bok choy. They also compliment the bartender’s friendliness and strong recommendations, noting the tomato soup was a bit too sweet but overall the experience was outstanding.",
+        "business_response": "Thank you so much for the thoughtful and detailed review! We’re thrilled you loved the flavors and textures—especially the edamame, heirloom tomato salad with steak, and charred bok choy. We’ll be sure to share your feedback with our team, and we hope to welcome you back soon as a regular spot when you’re in Summerlin.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer praises the restaurant’s creative Asian-influenced flavors and standout textures, highlighting exceptional edamame, a perfect heirloom tomato salad with tender steak, and crisp charred bok choy. They also compliment the bartender’s friendliness and strong recommendations, noting the tomato soup was a bit too sweet but overall the experience was outstanding.\",\n  \"business_response\": \"Thank you so much for the thoughtful and detailed review! We’re thrilled you loved the flavors and textures—especially the edamame, heirloom tomato salad with steak, and charred bok choy. We’ll be sure to share your feedback with our team, and we hope to welcome you back soon as a regular spot when you’re in Summerlin.\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "I wish we would have stayed here both nights. We arrived and stayed here our first night... in attempts to stay closer to the strip we went to the Ela",
+        "pred_stars": 5,
+        "key_insight": "Guests loved the location—right next to the tram with easy access to the Strip—and wished they had stayed there both nights instead of switching to another hotel.",
+        "business_response": "Thank you for sharing your experience! We’re delighted to hear you enjoyed our convenient location next to the tram and found it easy to reach the Strip. We’d love to welcome you back for a second stay—please reach out directly so we can help make your next visit even better.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"Guests loved the location—right next to the tram with easy access to the Strip—and wished they had stayed there both nights instead of switching to another hotel.\",\n  \"business_response\": \"Thank you for sharing your experience! We’re delighted to hear you enjoyed our convenient location next to the tram and found it easy to reach the Strip. We’d love to welcome you back for a second stay—please reach out directly so we can help make your next visit even better.\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "As much as it was mentioned in every single tourist guide i could find of Charlotte, this is a homey, family restaurant with soul and a great vibe to ",
+        "pred_stars": 5,
+        "key_insight": "Guests loved the homey, family-run atmosphere and friendly, down-to-earth staff, plus swift service and delicious food. The fried pickles were specifically praised as an outstanding surprise.",
+        "business_response": "Thank you so much for the wonderful review! We’re thrilled you enjoyed our homey vibe, friendly service, and delicious food—especially our fried pickles. We can’t wait to welcome you back for another round!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"Guests loved the homey, family-run atmosphere and friendly, down-to-earth staff, plus swift service and delicious food. The fried pickles were specifically praised as an outstanding surprise.\",\n  \"business_response\": \"Thank you so much for the wonderful review! We’re thrilled you enjoyed our homey vibe, friendly service, and delicious food—especially our fried pickles. We can’t wait to welcome you back for another round!\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "Needs to turn on their fans for lunch dining area because its super hot in Tempe area. Overall, i like the music atmosphere is amazing. Customer servi",
+        "pred_stars": 4,
+        "key_insight": "The lunch dining area gets very hot because the fans aren’t turned on, but the reviewer praised the music atmosphere and said the burgers are great. Customer service was only okay during a busy lunch rush.",
+        "business_response": "Thanks for the feedback—our team will look into ensuring the dining area fans are turned on during lunch service, especially during hot Tempe days. We’re glad you enjoyed the music atmosphere and our burgers, and we’ll continue working to improve service during peak rush hours.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 4,\n  \"key_insight\": \"The lunch dining area gets very hot because the fans aren’t turned on, but the reviewer praised the music atmosphere and said the burgers are great. Customer service was only okay during a busy lunch rush.\",\n  \"business_response\": \"Thanks for the feedback—our team will look into ensuring the dining area fans are turned on during lunch service, especially during hot Tempe days. We’re glad you enjoyed the music atmosphere and our burgers, and we’ll continue working to improve service during peak rush hours.\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "This place's bagels are just incredible.  They are fresh, chewy, and made on-site.  I had \\\"The Sexy\\\" which was awesome.  The owner rang me up and wa",
+        "pred_stars": 5,
+        "key_insight": "The reviewer praised the bagels as fresh, chewy, and made on-site, and highlighted the friendly, welcoming owner and an excellent experience with “The Sexy.”",
+        "business_response": "Thank you so much for the wonderful review! We’re thrilled you enjoyed our fresh, made-on-site bagels and that “The Sexy” hit the mark. We’ll be sure to share your kind words with our team—hope to see you again soon!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer praised the bagels as fresh, chewy, and made on-site, and highlighted the friendly, welcoming owner and an excellent experience with “The Sexy.”\",\n  \"business_response\": \"Thank you so much for the wonderful review! We’re thrilled you enjoyed our fresh, made-on-site bagels and that “The Sexy” hit the mark. We’ll be sure to share your kind words with our team—hope to see you again soon!\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "I was in North Carolina for work and a large group of us (20 or so people) came to Queen City to get some bbq. I was really happy with the experience,",
+        "pred_stars": 5,
+        "key_insight": "Great group experience with fun trivia, well-priced drinks, and delicious ribs; fried pickles and hush puppies were also praised. Only minor downside was the collard greens not being a favorite, with a preference for the corn next time.",
+        "business_response": "Thank you for the wonderful review! We’re thrilled you and your group enjoyed the trivia, drinks, and our ribs, and we appreciate you sharing your feedback on the collard greens. Next time, we’d love to have you try the corn—we’ll be sure it’s just as delicious as you remember!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"Great group experience with fun trivia, well-priced drinks, and delicious ribs; fried pickles and hush puppies were also praised. Only minor downside was the collard greens not being a favorite, with a preference for the corn next time.\",\n  \"business_response\": \"Thank you for the wonderful review! We’re thrilled you and your group enjoyed the trivia, drinks, and our ribs, and we appreciate you sharing your feedback on the collard greens. Next time, we’d love to have you try the corn—we’ll be sure it’s just as delicious as you remember!\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "Really like this place!  You aren't going to find a Speedy Gonzales on the menu, that's for sure.  Fresh, interesting food, friendly waitstaff and gre",
+        "pred_stars": 5,
+        "key_insight": "The reviewer consistently praises the fresh, interesting food, friendly waitstaff, and especially the chips and salsa, enchiladas, and standout sides like the plantain black bean mash and plantains.",
+        "business_response": "Thank you so much for the wonderful review! We’re thrilled you enjoyed our chips and salsa, enchiladas, and sides, and that our friendly team and outdoor seating helped make your visit special. We can’t wait to welcome you back the next time you’re staying in Uptown Charlotte!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer consistently praises the fresh, interesting food, friendly waitstaff, and especially the chips and salsa, enchiladas, and standout sides like the plantain black bean mash and plantains.\",\n  \"business_response\": \"Thank you so much for the wonderful review! We’re thrilled you enjoyed our chips and salsa, enchiladas, and sides, and that our friendly team and outdoor seating helped make your visit special. We can’t wait to welcome you back the next time you’re staying in Uptown Charlotte!\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "Awesome place to go for Poutine. Eat in or Take out! There's a nice park down the street where you can take your poutine and have a picnic by the lake",
+        "pred_stars": 5,
+        "key_insight": "The reviewer praises the poutine variety and topping selection, highlighting specific favorites like La Bacon, and notes the food is very filling and worth the visit. They also appreciate the option to eat in or take out and the nearby picnic spot by the lake.",
+        "business_response": "Thank you so much for the wonderful review! We’re thrilled you enjoyed our poutine and the variety of toppings, especially La Bacon. We hope to welcome you back soon—whether for dine-in or takeout for a lakeside picnic!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer praises the poutine variety and topping selection, highlighting specific favorites like La Bacon, and notes the food is very filling and worth the visit. They also appreciate the option to eat in or take out and the nearby picnic spot by the lake.\",\n  \"business_response\": \"Thank you so much for the wonderful review! We’re thrilled you enjoyed our poutine and the variety of toppings, especially La Bacon. We hope to welcome you back soon—whether for dine-in or takeout for a lakeside picnic!\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "Great place to get that hard to find spice type of stuff.",
+        "pred_stars": 5,
+        "key_insight": "The reviewer praised the store for carrying hard-to-find spice items.",
+        "business_response": "Thank you for the wonderful review! We’re glad you found the hard-to-find spices you were looking for. We look forward to helping you again whenever you need specialty ingredients.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer praised the store for carrying hard-to-find spice items.\",\n  \"business_response\": \"Thank you for the wonderful review! We’re glad you found the hard-to-find spices you were looking for. We look forward to helping you again whenever you need specialty ingredients.\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "Stopped by here on our impromptu Vegas trip. \\n\\nHave you ever wondered if the employees wear the color for the M&M that they closely resemble? Maybe ",
+        "pred_stars": 4,
+        "key_insight": "The reviewer enjoys the store’s selection and fun experience, but feels the pricing is too high—specifically citing $12.99 for a pound of M&Ms.",
+        "business_response": "Thank you for stopping by and for sharing your thoughts—we’re glad you enjoyed the selection and overall experience. We understand pricing can be a concern, and we appreciate you calling it out; we’ll be sure to review our pricing and value options. We hope to see you again on your next Vegas trip!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 4,\n  \"key_insight\": \"The reviewer enjoys the store’s selection and fun experience, but feels the pricing is too high—specifically citing $12.99 for a pound of M&Ms.\",\n  \"business_response\": \"Thank you for stopping by and for sharing your thoughts—we’re glad you enjoyed the selection and overall experience. We understand pricing can be a concern, and we appreciate you calling it out; we’ll be sure to review our pricing and value options. We hope to see you again on your next Vegas trip!\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "This place is pretty good. I was surprised. The service was just ok though.",
+        "pred_stars": 3,
+        "key_insight": "The reviewer found the overall experience pretty good and was pleasantly surprised, but felt the service was only average.",
+        "business_response": "Thank you for taking the time to share your feedback. We’re glad you were pleasantly surprised by your experience, and we’re sorry the service didn’t fully meet your expectations. We’ll review your comments with our team to ensure we provide consistently attentive service moving forward.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 3,\n  \"key_insight\": \"The reviewer found the overall experience pretty good and was pleasantly surprised, but felt the service was only average.\",\n  \"business_response\": \"Thank you for taking the time to share your feedback. We’re glad you were pleasantly surprised by your experience, and we’re sorry the service didn’t fully meet your expectations. We’ll review your comments with our team to ensure we provide consistently attentive service moving forward.\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "I have tried this place twice now and I think it is great. The dogs are giant and the toppings are plentiful. The first trip me and my boyfriend order",
+        "pred_stars": 4,
+        "key_insight": "The hot dogs and toppings are plentiful and the chili cheese fries are huge and flavorful, but the reviewer was disappointed that the hot dog and beer special was no longer available on the second visit.",
+        "business_response": "Thank you for the great feedback—we’re thrilled you enjoyed our giant hot dogs and the chili cheese fries. We’re sorry the hot dog and beer special wasn’t available during your second visit, and we’ll pass your suggestion along to our team. We hope to see you again soon!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 4,\n  \"key_insight\": \"The hot dogs and toppings are plentiful and the chili cheese fries are huge and flavorful, but the reviewer was disappointed that the hot dog and beer special was no longer available on the second visit.\",\n  \"business_response\": \"Thank you for the great feedback—we’re thrilled you enjoyed our giant hot dogs and the chili cheese fries. We’re sorry the hot dog and beer special wasn’t available during your second visit, and we’ll pass your suggestion along to our team. We hope to see you again soon!\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "Random Mexican food place that's pretty decent.  My Australian friend and I were in Phoenix for a night during our 2 week road trip.  This place got r",
+        "pred_stars": 4,
+        "key_insight": "The reviewer praised the restaurant for being neat and clean with friendly staff and fairly decent food, especially the al pastor tacos, while noting the shredded beef tacos felt only so-so compared to better options nearby.",
+        "business_response": "Thank you for the thoughtful review and for stopping in during your Phoenix visit. We’re glad you enjoyed the clean space, friendly service, and the al pastor tacos. We’ll take your feedback on the shredded beef to heart and hope to welcome you back for a taco or two the next time you’re in the area.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 4,\n  \"key_insight\": \"The reviewer praised the restaurant for being neat and clean with friendly staff and fairly decent food, especially the al pastor tacos, while noting the shredded beef tacos felt only so-so compared to better options nearby.\",\n  \"business_response\": \"Thank you for the thoughtful review and for stopping in during your Phoenix visit. We’re glad you enjoyed the clean space, friendly service, and the al pastor tacos. We’ll take your feedback on the shredded beef to heart and hope to welcome you back for a taco or two the next time you’re in the area.\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "I got a Groupon deal with 2 months of unlimited car washes for $15. Included in the membership (normally $5) is their \\\"red towel\\\" service. They give",
+        "pred_stars": 5,
+        "key_insight": "Great value and service experience with the Groupon membership—unlimited washes, included towel exchange, air/vacuums, and even a free wax when asked. Minor wishes were the inability to pause the tunnel for extra wheel attention and slightly later opening hours.",
+        "business_response": "Thank you for the thoughtful review and for choosing us! We’re glad the unlimited wash membership, towel service, and included amenities have been meeting your expectations, and we appreciate your feedback about the tunnel timing and hours. We look forward to seeing you again and helping with any add-on services you’d like in the future.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"Great value and service experience with the Groupon membership—unlimited washes, included towel exchange, air/vacuums, and even a free wax when asked. Minor wishes were the inability to pause the tunnel for extra wheel attention and slightly later opening hours.\",\n  \"business_response\": \"Thank you for the thoughtful review and for choosing us! We’re glad the unlimited wash membership, towel service, and included amenities have been meeting your expectations, and we appreciate your feedback about the tunnel timing and hours. We look forward to seeing you again and helping with any add-on services you’d like in the future.\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "I had a hard time finding this place. Didn't know it was inside of Green Valley Ranch casino. But that's not a deal breaker. The staff is nice and ver",
+        "pred_stars": 5,
+        "key_insight": "The reviewer had some difficulty locating the shop inside Green Valley Ranch casino, but praised the friendly staff and said it’s their favorite Tropical Smoothie, with convenient parking and a great overall experience.",
+        "business_response": "Thank you for the wonderful review! We’re glad you found us inside Green Valley Ranch and that you enjoyed our friendly team, convenient parking, and your Tropical Smoothie experience. We look forward to welcoming you back soon!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer had some difficulty locating the shop inside Green Valley Ranch casino, but praised the friendly staff and said it’s their favorite Tropical Smoothie, with convenient parking and a great overall experience.\",\n  \"business_response\": \"Thank you for the wonderful review! We’re glad you found us inside Green Valley Ranch and that you enjoyed our friendly team, convenient parking, and your Tropical Smoothie experience. We look forward to welcoming you back soon!\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "If you've been to one Claim Jumper, you've been to them all. I prefer this one over the Town Square location because it's a little quieter. The portio",
+        "pred_stars": 4,
+        "key_insight": "The reviewer likes this location for being quieter than Town Square, praising the large portions, better-than-most food, and having WiFi; the only downside is it gets busy during peak hours.",
+        "business_response": "Thank you for the thoughtful review! We’re glad you enjoy the quieter atmosphere, generous portions, and our WiFi, and we appreciate you noting the peak-hour rush. We look forward to welcoming you back—please feel free to visit during off-peak times for an even more relaxed experience.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 4,\n  \"key_insight\": \"The reviewer likes this location for being quieter than Town Square, praising the large portions, better-than-most food, and having WiFi; the only downside is it gets busy during peak hours.\",\n  \"business_response\": \"Thank you for the thoughtful review! We’re glad you enjoy the quieter atmosphere, generous portions, and our WiFi, and we appreciate you noting the peak-hour rush. We look forward to welcoming you back—please feel free to visit during off-peak times for an even more relaxed experience.\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "If they hadn't changed their location, it was a sure-shot 5 stars! The old location inside University Square mall was just awesome. The food was unbel",
+        "pred_stars": 4,
+        "key_insight": "The food remains very tasty, but prices are slightly higher after the move to a nicer location compared to the old University Square mall spot.",
+        "business_response": "Thank you for the thoughtful review! We’re glad you’re still enjoying the food, and we appreciate your feedback about pricing after our move. We hope you’ll stop by again soon—if you’re in the area, we’d love to welcome you back.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 4,\n  \"key_insight\": \"The food remains very tasty, but prices are slightly higher after the move to a nicer location compared to the old University Square mall spot.\",\n  \"business_response\": \"Thank you for the thoughtful review! We’re glad you’re still enjoying the food, and we appreciate your feedback about pricing after our move. We hope you’ll stop by again soon—if you’re in the area, we’d love to welcome you back.\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "My husband booked a room in the Forum tower (through Costco) and we were upgraded to a suite when we arrived.  It was very nice in terms of size and c",
+        "pred_stars": 4,
+        "key_insight": "The suite upgrade was a great size and comfortable, and the staff were very friendly and helpful, but the room showed signs of wear (chipped paint and worn textiles), which could feel disappointing if paying full price.",
+        "business_response": "Thank you for sharing your experience— we’re glad the suite upgrade and our team’s friendliness made your stay enjoyable. We appreciate your feedback about the room’s condition and will review it with our housekeeping and maintenance teams to ensure our accommodations are consistently refreshed. We look forward to welcoming you back on your next visit.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 4,\n  \"key_insight\": \"The suite upgrade was a great size and comfortable, and the staff were very friendly and helpful, but the room showed signs of wear (chipped paint and worn textiles), which could feel disappointing if paying full price.\",\n  \"business_response\": \"Thank you for sharing your experience— we’re glad the suite upgrade and our team’s friendliness made your stay enjoyable. We appreciate your feedback about the room’s condition and will review it with our housekeeping and maintenance teams to ensure our accommodations are consistently refreshed. We look forward to welcoming you back on your next visit.\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "I was first introduced to this place by my dear friend and fellow yelper Ric. H. Upon walking in it doesn't look like much, just your average mom and ",
+        "pred_stars": 5,
+        "key_insight": "The reviewer praised the terrific food, friendly and helpful staff, and the Immunizer drink, noting the after-workout experience and convenient option to stock up on health essentials.",
+        "business_response": "Thank you so much for the wonderful review! We’re thrilled you enjoyed the food, the Immunizer drink, and our friendly team and local art. We can’t wait to welcome you back regularly—especially after your workouts at LVAC on Maryland!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer praised the terrific food, friendly and helpful staff, and the Immunizer drink, noting the after-workout experience and convenient option to stock up on health essentials.\",\n  \"business_response\": \"Thank you so much for the wonderful review! We’re thrilled you enjoyed the food, the Immunizer drink, and our friendly team and local art. We can’t wait to welcome you back regularly—especially after your workouts at LVAC on Maryland!\"\n}"
+    },
+    {
+        "true_label": 4,
+        "review_snippet": "This visit received a prompt greeting by the hotess/manager after efficient service, food in a timely manner, and as we ordered it. Restrooms were wel",
+        "pred_stars": 5,
+        "key_insight": "Guests praised the prompt greeting from the hostess/manager, efficient service, timely food that matched the order, and clean, well-kept restrooms.",
+        "business_response": "Thank you for the wonderful review! We’re glad you experienced a prompt greeting, efficient service, and food delivered exactly as ordered, along with clean restrooms. We appreciate your support and look forward to welcoming you back again soon.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"Guests praised the prompt greeting from the hostess/manager, efficient service, timely food that matched the order, and clean, well-kept restrooms.\",\n  \"business_response\": \"Thank you for the wonderful review! We’re glad you experienced a prompt greeting, efficient service, and food delivered exactly as ordered, along with clean restrooms. We appreciate your support and look forward to welcoming you back again soon.\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "This place is an Arizona treasure.  I have been going there for 15 years now and it's always consistently good.  I recommend the 7Q & 9Q with black be",
+        "pred_stars": 5,
+        "key_insight": "Long-time customer praises consistent quality over 15 years and recommends specific menu items (7Q & 9Q with black beans and jerk fried rice), noting the included Snicker Doodle cookie completes the meal.",
+        "business_response": "Thank you so much for your loyalty and for sharing your favorite order! We’re thrilled to hear you’ve enjoyed consistent quality for 15 years and that the 7Q & 9Q with black beans and jerk fried rice hits the mark. We can’t wait to welcome you back again soon!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"Long-time customer praises consistent quality over 15 years and recommends specific menu items (7Q & 9Q with black beans and jerk fried rice), noting the included Snicker Doodle cookie completes the meal.\",\n  \"business_response\": \"Thank you so much for your loyalty and for sharing your favorite order! We’re thrilled to hear you’ve enjoyed consistent quality for 15 years and that the 7Q & 9Q with black beans and jerk fried rice hits the mark. We can’t wait to welcome you back again soon!\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "My husband made reservations at this restaurant for my birthday dinner. We had reservations at 6:30 and had the restaurant to ourselves for a good 45 ",
+        "pred_stars": 5,
+        "key_insight": "Exceptional birthday experience with impeccable, knowledgeable service and a standout tasting menu featuring great variety and flavor pairings. The 56th-floor window view of the Strip at dusk to night was a major highlight.",
+        "business_response": "Thank you for celebrating your birthday with us at ALIZE. We’re thrilled you enjoyed the tasting menu, the thoughtful wine pairing recommendations, and the service from Salvano and the team. We’re especially glad the view made the evening feel truly special—hope to welcome you back for another memorable occasion.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"Exceptional birthday experience with impeccable, knowledgeable service and a standout tasting menu featuring great variety and flavor pairings. The 56th-floor window view of the Strip at dusk to night was a major highlight.\",\n  \"business_response\": \"Thank you for celebrating your birthday with us at ALIZE. We’re thrilled you enjoyed the tasting menu, the thoughtful wine pairing recommendations, and the service from Salvano and the team. We’re especially glad the view made the evening feel truly special—hope to welcome you back for another memorable occasion.\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "This is an aquatic complex that is open year round since it is indoors.  Very, clean and well maintained.  When you walk in to the right is staff memb",
+        "pred_stars": 5,
+        "key_insight": "The reviewer praises the facility as very clean, well maintained, and well run, highlighting the year-round indoor setup, Olympic-size pool, free life vests/floaties, and excellent swimming lessons and open swim experience.",
+        "business_response": "Thank you so much for the wonderful review! We’re thrilled to hear you and your daughter have enjoyed the facility, lessons, and open swim, and that our team and amenities have made your experience great. We’d love to host your daughter’s party next year—please reach out to our staff to get the details.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer praises the facility as very clean, well maintained, and well run, highlighting the year-round indoor setup, Olympic-size pool, free life vests/floaties, and excellent swimming lessons and open swim experience.\",\n  \"business_response\": \"Thank you so much for the wonderful review! We’re thrilled to hear you and your daughter have enjoyed the facility, lessons, and open swim, and that our team and amenities have made your experience great. We’d love to host your daughter’s party next year—please reach out to our staff to get the details.\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "awesome! one could loose hours here wondering through this amazing store. twists and turns find you in different rooms (LITERALLY! there is a 1930's h",
+        "pred_stars": 5,
+        "key_insight": "The reviewer loved the store’s immersive layout, highlighting the 1930s house inside UrbanSouthwest and the variety of unique, artisan-made treasures across distinct rooms.",
+        "business_response": "Thank you so much for the wonderful review! We’re thrilled you enjoyed exploring our space and discovering the unique rooms and artisan pieces we curate. We truly appreciate your recommendation and hope to welcome you back soon.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer loved the store’s immersive layout, highlighting the 1930s house inside UrbanSouthwest and the variety of unique, artisan-made treasures across distinct rooms.\",\n  \"business_response\": \"Thank you so much for the wonderful review! We’re thrilled you enjoyed exploring our space and discovering the unique rooms and artisan pieces we curate. We truly appreciate your recommendation and hope to welcome you back soon.\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "This place has a lot of egg options. and I mean.. a lot. I think they had 4-5 pages worth of different types of breakfast. I was a bit.. overwhelmed.\\",
+        "pred_stars": 5,
+        "key_insight": "The menu offers an extensive variety of egg and breakfast options (4–5 pages), which can feel overwhelming, but the Biscuits and Gravy with eggs and bacon was excellent. Service was attentive, kind, and prompt with no wait on Monday.",
+        "business_response": "Thank you for the wonderful review! We’re glad you enjoyed the Biscuits and Gravy with eggs and bacon and that our team provided attentive, friendly service with a quick turnaround. We hope the next time you visit, you’ll find a few favorites among our many egg and breakfast options—just let us know if you’d like help narrowing them down.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The menu offers an extensive variety of egg and breakfast options (4–5 pages), which can feel overwhelming, but the Biscuits and Gravy with eggs and bacon was excellent. Service was attentive, kind, and prompt with no wait on Monday.\",\n  \"business_response\": \"Thank you for the wonderful review! We’re glad you enjoyed the Biscuits and Gravy with eggs and bacon and that our team provided attentive, friendly service with a quick turnaround. We hope the next time you visit, you’ll find a few favorites among our many egg and breakfast options—just let us know if you’d like help narrowing them down.\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "Get the \\\"Green Beef\\\" from the Side Orders, with  Corn tortillas or Rice.",
+        "pred_stars": 5,
+        "key_insight": "The reviewer recommends ordering the “Green Beef” from the side orders, noting it pairs well with either corn tortillas or rice.",
+        "business_response": "Thank you for the great recommendation! We’re glad you enjoyed our Green Beef and found the corn tortillas and rice to be the perfect pairing. We look forward to welcoming you back soon.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer recommends ordering the “Green Beef” from the side orders, noting it pairs well with either corn tortillas or rice.\",\n  \"business_response\": \"Thank you for the great recommendation! We’re glad you enjoyed our Green Beef and found the corn tortillas and rice to be the perfect pairing. We look forward to welcoming you back soon.\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "I have only been here once but let me say it was one of the best times EVER! The whole place is sooo sexy and cool. Love the girls dancing in such ama",
+        "pred_stars": 5,
+        "key_insight": "The reviewer had an exceptional experience, praising the venue’s vibe, the dancers’ outfits, and the free bubbly, and says they had so much fun they want to return.",
+        "business_response": "Thank you so much for the fantastic review! We’re thrilled you loved the atmosphere, the dancers’ performances, and the free bubbly—and we can’t wait to welcome you back for another great night. See you soon!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer had an exceptional experience, praising the venue’s vibe, the dancers’ outfits, and the free bubbly, and says they had so much fun they want to return.\",\n  \"business_response\": \"Thank you so much for the fantastic review! We’re thrilled you loved the atmosphere, the dancers’ performances, and the free bubbly—and we can’t wait to welcome you back for another great night. See you soon!\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "Ordered the Red Curry lunch special, 'Thai' hot. It had a nice spice to it, not overpowering the flavor. I plan to try the Double Thai Hot next time I",
+        "pred_stars": 5,
+        "key_insight": "The reviewer praised the flavorful but not overpowering 'Thai' hot red curry, the good consistency (not runny), tasty spring rolls, excellent coconut ice cream with fried banana, and great, attentive service with quick drink refills.",
+        "business_response": "Thank you so much for the wonderful review! We’re thrilled you enjoyed our red curry, spring rolls, and homemade coconut ice cream, and that our team provided great service with quick refills. We can’t wait to welcome you back—please let us know how you like the Double Thai Hot next time!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer praised the flavorful but not overpowering 'Thai' hot red curry, the good consistency (not runny), tasty spring rolls, excellent coconut ice cream with fried banana, and great, attentive service with quick drink refills.\",\n  \"business_response\": \"Thank you so much for the wonderful review! We’re thrilled you enjoyed our red curry, spring rolls, and homemade coconut ice cream, and that our team provided great service with quick refills. We can’t wait to welcome you back—please let us know how you like the Double Thai Hot next time!\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "The food here is decent. The bread sticks are really yummy! It is good for large groups. They deliver for $2.50. The pizza is big which is always a pl",
+        "pred_stars": 4,
+        "key_insight": "The reviewer enjoyed the breadsticks and praised the large, shareable pizza, noting the restaurant is convenient for large groups and offers delivery for $2.50.",
+        "business_response": "Thank you for the great feedback! We’re glad you enjoyed our breadsticks and the generous size of our pizza, and that our delivery option works well for large groups. We appreciate you taking the time to share your experience and hope to serve you again soon!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 4,\n  \"key_insight\": \"The reviewer enjoyed the breadsticks and praised the large, shareable pizza, noting the restaurant is convenient for large groups and offers delivery for $2.50.\",\n  \"business_response\": \"Thank you for the great feedback! We’re glad you enjoyed our breadsticks and the generous size of our pizza, and that our delivery option works well for large groups. We appreciate you taking the time to share your experience and hope to serve you again soon!\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "This is my favorite deli in the valley.  Whenever I am in central Phoenix I work my schedule around making sure that I get to eat here.  They remember",
+        "pred_stars": 5,
+        "key_insight": "The reviewer praises the deli as a favorite, highlighting exceptional customer service (they remember their name and ask about family) and strong community/family legacy that makes it better than chain options.",
+        "business_response": "Thank you so much for the wonderful review! We’re honored to be your go-to deli and to hear that our team’s personal service and family legacy make a difference. We can’t wait to welcome you back for your next New Yorker!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer praises the deli as a favorite, highlighting exceptional customer service (they remember their name and ask about family) and strong community/family legacy that makes it better than chain options.\",\n  \"business_response\": \"Thank you so much for the wonderful review! We’re honored to be your go-to deli and to hear that our team’s personal service and family legacy make a difference. We can’t wait to welcome you back for your next New Yorker!\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "Episage turned out to be nicer than the address would otherwise suggest.   Her masseuse was Teri who did an amazing job.  My wife is planning to make ",
+        "pred_stars": 5,
+        "key_insight": "The reviewer was pleasantly surprised by the experience, praising masseuse Teri for an amazing job and noting that pricing is reasonable even without a Groupon.",
+        "business_response": "Thank you for the wonderful review! We’re so glad you and your wife had a great experience, and we’ll be sure to share your kind words with Teri. We look forward to welcoming you back—please let us know you’d like to request Teri when you book.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer was pleasantly surprised by the experience, praising masseuse Teri for an amazing job and noting that pricing is reasonable even without a Groupon.\",\n  \"business_response\": \"Thank you for the wonderful review! We’re so glad you and your wife had a great experience, and we’ll be sure to share your kind words with Teri. We look forward to welcoming you back—please let us know you’d like to request Teri when you book.\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "\\\"Super Delicious!!!\\\"\\n\\nThis restaurant is located in the Venetian Hotel. The ambiance is exquisite and the food is out of this world. The service i",
+        "pred_stars": 5,
+        "key_insight": "The reviewer praised the exquisite ambiance, outstanding Italian food, and top-tier service, and noted that you don’t need to dress up with jackets to enjoy the experience.",
+        "business_response": "Thank you for the wonderful review! We’re delighted you enjoyed the ambiance, the Italian cuisine, and the service during your visit at the Venetian Hotel. We look forward to welcoming you and your husband back again soon.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer praised the exquisite ambiance, outstanding Italian food, and top-tier service, and noted that you don’t need to dress up with jackets to enjoy the experience.\",\n  \"business_response\": \"Thank you for the wonderful review! We’re delighted you enjoyed the ambiance, the Italian cuisine, and the service during your visit at the Venetian Hotel. We look forward to welcoming you and your husband back again soon.\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "Called Pete with a quick repair needed before moving out of our rental, he was prompt and offered a fair price. Would use his services again.",
+        "pred_stars": 5,
+        "key_insight": "Prompt service and a fair price for a quick repair before moving out, with a strong willingness to reuse the business.",
+        "business_response": "Thank you for the great review! We’re glad Pete was able to respond quickly and provide a fair price so you could get your rental repair handled before moving out. We look forward to helping you again in the future.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"Prompt service and a fair price for a quick repair before moving out, with a strong willingness to reuse the business.\",\n  \"business_response\": \"Thank you for the great review! We’re glad Pete was able to respond quickly and provide a fair price so you could get your rental repair handled before moving out. We look forward to helping you again in the future.\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "Yes, you can find a cheaper tire. I like this place because they offer a warranty and a bunch of other services with your tire purchase.\\n\\nAnother gr",
+        "pred_stars": 5,
+        "key_insight": "The customer praised the fast service (out in under 15 minutes) and the added value of a tire warranty and other services included with the purchase.",
+        "business_response": "Thank you for the wonderful review! We’re glad you experienced our quick service and found the warranty and additional services valuable with your tire purchase. We appreciate your support and look forward to helping you again in the future.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The customer praised the fast service (out in under 15 minutes) and the added value of a tire warranty and other services included with the purchase.\",\n  \"business_response\": \"Thank you for the wonderful review! We’re glad you experienced our quick service and found the warranty and additional services valuable with your tire purchase. We appreciate your support and look forward to helping you again in the future.\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "I am giving my favorite steakhouse in Vegas 5 stars, but caution those who can get sticker shock when the bill arrives ,to order very carefully!!!  Th",
+        "pred_stars": 5,
+        "key_insight": "The reviewer praises the food quality and service (notably the hot rocks, dumplings, crab sticks, steak sauces, and key lime pie) while warning about high prices and sticker shock, especially for salads and mains.",
+        "business_response": "Thank you for the wonderful review and for highlighting your favorite dishes and the excellent service you consistently receive. We’re glad you enjoyed the hot rocks, steak sauces, and key lime pie—your feedback on pricing is appreciated as well. We look forward to welcoming you back for another great meal at Stack!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer praises the food quality and service (notably the hot rocks, dumplings, crab sticks, steak sauces, and key lime pie) while warning about high prices and sticker shock, especially for salads and mains.\",\n  \"business_response\": \"Thank you for the wonderful review and for highlighting your favorite dishes and the excellent service you consistently receive. We’re glad you enjoyed the hot rocks, steak sauces, and key lime pie—your feedback on pricing is appreciated as well. We look forward to welcoming you back for another great meal at Stack!\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "This is my go-to local AYCE sushi place. Mr. Naka and his staff are so friendly! For $22 + tax and tip, you can enjoy some tasty sushi, rolls, appetiz",
+        "pred_stars": 5,
+        "key_insight": "The reviewer praises the restaurant as a go-to AYCE sushi spot, highlighting friendly service from Mr. Naka and staff, great value ($22 + tax/tip), and standout items like the plum wine ice cream.",
+        "business_response": "Thank you so much for the wonderful review! We’re thrilled to hear you enjoy our AYCE sushi, friendly service, and the plum wine ice cream. We look forward to welcoming you back—whether you’re dining at the bar or with a larger group.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer praises the restaurant as a go-to AYCE sushi spot, highlighting friendly service from Mr. Naka and staff, great value ($22 + tax/tip), and standout items like the plum wine ice cream.\",\n  \"business_response\": \"Thank you so much for the wonderful review! We’re thrilled to hear you enjoy our AYCE sushi, friendly service, and the plum wine ice cream. We look forward to welcoming you back—whether you’re dining at the bar or with a larger group.\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "I wish I could give DB 4.5 stars, but the bartenders were pretty cool so I'll bump it up. I ate here with a friend. Well, I actually ate alone at the ",
+        "pred_stars": 5,
+        "key_insight": "Guests praised the bartenders as “pretty cool” and highlighted standout food—especially the foie gras and duck—along with fabulous desserts. The review also recommends the bar seating and the lake-view atmosphere as a positive dining experience.",
+        "business_response": "Thank you for the wonderful review! We’re thrilled you enjoyed our foie gras, duck, and fabulous desserts, and that our bartenders helped make your experience memorable. We can’t wait to welcome you back—especially for a seat with a great view of the lake.",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"Guests praised the bartenders as “pretty cool” and highlighted standout food—especially the foie gras and duck—along with fabulous desserts. The review also recommends the bar seating and the lake-view atmosphere as a positive dining experience.\",\n  \"business_response\": \"Thank you for the wonderful review! We’re thrilled you enjoyed our foie gras, duck, and fabulous desserts, and that our bartenders helped make your experience memorable. We can’t wait to welcome you back—especially for a seat with a great view of the lake.\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "There are so many unbelievable ideas, moments, personal accomplishments, both physical and psychological that came to fruition during my families expe",
+        "pred_stars": 5,
+        "key_insight": "The reviewer credits Atavist Nutrition with delivering meaningful results after other diets failed, highlighting Paul’s ability to connect, educate, and spend time with participants so they can continue the practices.",
+        "business_response": "Thank you so much for your thoughtful review and for sharing your family’s journey. We’re thrilled that Paul’s seminar and ongoing education helped you feel better, grow personally, and confidently continue the lifestyle after the challenge. We truly appreciate your recommendation and your kind words—thank you again!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"The reviewer credits Atavist Nutrition with delivering meaningful results after other diets failed, highlighting Paul’s ability to connect, educate, and spend time with participants so they can continue the practices.\",\n  \"business_response\": \"Thank you so much for your thoughtful review and for sharing your family’s journey. We’re thrilled that Paul’s seminar and ongoing education helped you feel better, grow personally, and confidently continue the lifestyle after the challenge. We truly appreciate your recommendation and your kind words—thank you again!\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "This is the best breakfast spot on the strip!  The potions are HUGE. I'm a big eater and my wife and I could share the chicken and waffles. Biscuits a",
+        "pred_stars": 5,
+        "key_insight": "Excellent breakfast experience with huge portions (chicken and waffles are shareable) and consistently good biscuits and gravy; standout service for a large party, especially from Scott.",
+        "business_response": "Thank you for the wonderful review! We’re thrilled you enjoyed the generous portions and that our team—especially Scott—made your large-party visit a great experience. We can’t wait to welcome you back the next time you’re in Vegas!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"Excellent breakfast experience with huge portions (chicken and waffles are shareable) and consistently good biscuits and gravy; standout service for a large party, especially from Scott.\",\n  \"business_response\": \"Thank you for the wonderful review! We’re thrilled you enjoyed the generous portions and that our team—especially Scott—made your large-party visit a great experience. We can’t wait to welcome you back the next time you’re in Vegas!\"\n}"
+    },
+    {
+        "true_label": 5,
+        "review_snippet": "I've tried Sin City Dogs a few times and their dogs never dissapoint. Ran into them at Foodie Fest and had to try the Lobster Corn Dog. Wow. What a tr",
+        "pred_stars": 5,
+        "key_insight": "Consistently great hot dogs and a standout Lobster Corn Dog at Foodie Fest, with praise for the gourmet street-food approach and friendly staff.",
+        "business_response": "Thank you so much for the wonderful review! We’re thrilled to hear our Lobster Corn Dog and our gourmet take on street food hit the mark, and that you’ve enjoyed visiting us at multiple events. We can’t wait to see you again soon—thanks for supporting Sin City Dogs!",
+        "valid_json": true,
+        "raw": "{\n  \"stars\": 5,\n  \"key_insight\": \"Consistently great hot dogs and a standout Lobster Corn Dog at Foodie Fest, with praise for the gourmet street-food approach and friendly staff.\",\n  \"business_response\": \"Thank you so much for the wonderful review! We’re thrilled to hear our Lobster Corn Dog and our gourmet take on street food hit the mark, and that you’ve enjoyed visiting us at multiple events. We can’t wait to see you again soon—thanks for supporting Sin City Dogs!\"\n}"
+    }
+]

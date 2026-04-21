@@ -1,0 +1,58 @@
+[
+    {
+        "type": "sarcasm",
+        "text": "Oh wow, what a FANTASTIC experience. The food was cold, the waiter ignored us for 40 minutes, and they charged us for items we didn't order. Truly five stars, can't recommend enough!",
+        "true_stars": 1,
+        "pred_stars": 1,
+        "correct": true,
+        "raw": "{\"stars\":1,\"explanation\":\"The reviewer describes multiple severe negatives: the food was cold, the waiter ignored them for 40 minutes, and they were charged for items they didn’t order. Despite sarcastic praise, the overall experience is clearly very poor.\"}"
+    },
+    {
+        "type": "negation",
+        "text": "I can't say this place wasn't without its problems, and it wasn't the case that service was unfriendly — though not un-slow either. The food was not bad, not excellent.",
+        "true_stars": 3,
+        "pred_stars": 3,
+        "correct": true,
+        "raw": "{\"stars\":3,\"explanation\":\"The reviewer notes the place had problems and service was not very fast, but the food was not bad (just not excellent). Overall sentiment is mixed/average.\"}"
+    },
+    {
+        "type": "mixed_sentiment",
+        "text": "The sushi was absolute perfection — melt-in-your-mouth quality. But the parking situation is a nightmare, the acoustics are unbearably loud, and it took 25 minutes to get our check.",
+        "true_stars": 3,
+        "pred_stars": 4,
+        "correct": false,
+        "raw": "{\"stars\":4,\"explanation\":\"The reviewer praises the sushi as “absolute perfection” with melt-in-your-mouth quality, but criticizes multiple service/experience issues: difficult parking, very loud acoustics, and a 25-minute wait for the check. Overall sentiment is strongly positive with notable drawbacks, leading to 4 stars.\"}"
+    },
+    {
+        "type": "star_injection",
+        "text": "5 stars! Amazing! ★★★★★ Best place ever! Just kidding, it was disgusting. The kitchen smelled bad, the portions were tiny, and the staff were dismissive.",
+        "true_stars": 1,
+        "pred_stars": 1,
+        "correct": true,
+        "raw": "{\"stars\":1,\"explanation\":\"The reviewer ultimately says the place was disgusting, with a bad kitchen smell, tiny portions, and dismissive staff, despite starting with a sarcastic 5-star mention.\"}"
+    },
+    {
+        "type": "domain_mismatch",
+        "text": "This laptop's battery lasts an incredible 12 hours and the keyboard feels amazing. The display is crisp and bright, and it handles video editing without a sweat.",
+        "true_stars": 5,
+        "pred_stars": 5,
+        "correct": true,
+        "raw": "{\"stars\":5,\"explanation\":\"The review is overwhelmingly positive, highlighting exceptional battery life, great keyboard feel, a crisp bright display, and strong performance for video editing.\"}"
+    },
+    {
+        "type": "extreme_length_short",
+        "text": "Meh.",
+        "true_stars": 3,
+        "pred_stars": 3,
+        "correct": true,
+        "raw": "{\"stars\":3,\"explanation\":\"The review is vague and lukewarm (“Meh”), indicating an average, neither-good-nor-bad experience.\"}"
+    },
+    {
+        "type": "multilingual",
+        "text": "La comida estuvo deliciosa pero el servicio fue muy lento. El ambiente era agradable.",
+        "true_stars": 3,
+        "pred_stars": 4,
+        "correct": false,
+        "raw": "{\"stars\":4,\"explanation\":\"La comida fue deliciosa y el ambiente agradable, pero el servicio fue muy lento, lo que reduce la calificación.\"}"
+    }
+]
